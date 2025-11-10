@@ -1,0 +1,4 @@
+OrderID,CustomerID,Product,OrderDate
+101,1,Apples,2024-01-15
+103,3,Bananas,2024-06-20
+102,2,Oranges,2024-11-01

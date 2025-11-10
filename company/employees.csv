@@ -1,0 +1,151 @@
+employee_id,first_name,last_name,email,phone,hire_date,date_of_birth,gender,is_active
+E0001,Michael,Scott,michael.scott@company.com,+34 988 229 287,2020-07-13,1964-03-15,M,Yes
+E0002,Jim,Halpert,jim.halpert@company.com,+34 901 870 366,2021-12-31,1978-10-01,M,Yes
+E0003,Pam,Beesly,pam.beesly@company.com,+34 928657980,2021-05-07,1979-03-25,F,Yes
+E0004,Dwight,Schrute,dwight.schrute@company.com,+34900 167 280,2025-05-14,1970-01-20,M,Yes
+E0005,Stanley,Hudson,stanley.hudson@company.com,+34 806 021 756,2022-04-27,1958-02-19,M,Yes
+E0006,Phyllis,Vance,phyllis.vance@company.com,+34 841802704,2025-09-08,1965-11-14,F,No
+E0007,Angela,Martin,angela.martin@company.com,+34 665 029 999,2022-07-05,1971-11-11,F,Yes
+E0008,Oscar,Martinez,oscar.martinez@company.com,+34 985 18 14 38,2021-05-21,1972-11-18,M,No
+E0009,Kevin,Malone,kevin.malone@company.com,+34 972 120 980,2023-09-11,1968-06-01,M,Yes
+E0010,Andy,Bernard,andy.bernard@company.com,+34 947 729 239,2024-02-03,1973-01-24,M,Yes
+E0011,Erin,Hannon,erin.hannon@company.com,+34 845 461 727,2022-01-15,1986-05-01,F,Yes
+E0012,Kelly,Kapoor,kelly.kapoor@company.com,+34 866931016,2021-01-12,1980-02-05,F,Yes
+E0013,Ryan,Howard,ryan.howard@company.com,+34971268173,2022-11-10,1982-05-05,M,Yes
+E0014,Toby,Flenderson,toby.flenderson@company.com,+34 842 53 54 05,2020-05-09,1971-02-22,M,Yes
+E0015,Leslie,Knope,leslie.knope@company.com,+34823 620 723,2022-04-07,1975-01-18,F,Yes
+E0016,Ron,Swanson,ron.swanson@company.com,+34 739100234,2022-07-21,1967-02-27,M,Yes
+E0017,Tom,Haverford,tom.haverford@company.com,+34824579904,2020-02-03,1982-07-05,M,No
+E0018,April,Ludgate,april.ludgate@company.com,+34986501719,2021-08-27,1989-04-06,F,Yes
+E0019,Andy,Dwyer,andy.dwyer@company.com,+34 986 277 160,2022-09-23,1981-10-03,M,Yes
+E0020,Ben,Wyatt,ben.wyatt@company.com,+34807552738,2020-08-30,1974-11-14,M,No
+E0021,Chris,Traeger,chris.traeger@company.com,+34974919233,2023-05-12,1968-04-02,M,No
+E0022,Ann,Perkins,ann.perkins@company.com,+34 919780835,2022-01-04,1976-11-21,F,Yes
+E0023,Donna,Meagle,donna.meagle@company.com,+34973 457 038,2024-02-01,1972-08-24,F,Yes
+E0024,Jerry,Gergich,jerry.gergich@company.com,+34945 59 34 75,2023-06-24,1950-02-28,M,Yes
+E0025,Jake,Peralta,jake.peralta@company.com,+34971 83 47 54,2021-10-31,1981-10-20,M,Yes
+E0026,Amy,Santiago,amy.santiago@company.com,+34 885 552 960,2023-11-18,1982-05-04,F,Yes
+E0027,Rosa,Diaz,rosa.diaz@company.com,+34848 011 248,2024-05-03,1984-02-14,F,Yes
+E0028,Terry,Jeffords,terry.jeffords@company.com,+34876 38 71 52,2025-07-03,1972-05-22,M,Yes
+E0029,Charles,Boyle,charles.boyle@company.com,+34 828 666 894,2023-03-18,1980-02-16,M,Yes
+E0030,Raymond,Holt,raymond.holt@company.com,+34984 30 86 58,2023-07-04,1955-06-02,M,Yes
+E0031,Gina,Linetti,gina.linetti@company.com,+34 806759910,2024-12-20,1985-12-07,F,No
+E0032,Michael,Hitchcock,michael.hitchcock@company.com,+34 986 309 413,2022-01-04,1960-07-06,M,No
+E0033,Norm,Scully,norm.scully@company.com,+34927 11 97 16,2020-11-19,1959-09-20,M,Yes
+E0034,Ross,Geller,ross.geller@company.com,+34 847 071 505,2024-12-18,1967-10-18,M,Yes
+E0035,Monica,Geller,monica.geller@company.com,+34 916739829,2021-10-23,1969-04-22,F,Yes
+E0036,Rachel,Green,rachel.green@company.com,+34 980363710,2020-10-04,1969-05-05,F,Yes
+E0037,Chandler,Bing,chandler.bing@company.com,+34977 23 37 46,2021-03-07,1968-04-08,M,Yes
+E0038,Joey,Tribbiani,joey.tribbiani@company.com,+34945 832 248,2025-02-12,1968-01-09,M,Yes
+E0039,Gunther,Centralperk,gunther.centralperk@company.com,+34984 701 395,2021-08-27,1963-02-28,M,Yes
+E0040,Janice,Litman,janice.litman@company.com,+34984 217 399,2023-01-01,1965-10-17,F,No
+E0041,Carol,Willick,carol.willick@company.com,+34 948 505 024,2020-08-15,1967-04-19,F,Yes
+E0042,Mike,Hannigan,mike.hannigan@company.com,+34 969 309 454,2020-04-30,1968-03-22,M,Yes
+E0043,Richard,Burke,richard.burke@company.com,+34803 40 59 85,2022-12-02,1950-01-19,M,Yes
+E0044,Ted,Mosby,ted.mosby@company.com,+34814 530 504,2023-05-03,1978-04-25,M,Yes
+E0045,Marshall,Eriksen,marshall.eriksen@company.com,+34953 52 54 37,2023-09-02,1978-05-07,M,Yes
+E0046,Lily,Aldrin,lily.aldrin@company.com,+34948 39 64 32,2021-09-15,1978-03-22,F,No
+E0047,Robin,Scherbatsky,robin.scherbatsky@company.com,+34 715 771 285,2022-09-24,1980-07-23,F,Yes
+E0048,Barney,Stinson,barney.stinson@company.com,+34876 15 30 59,2024-04-10,1976-11-22,M,Yes
+E0049,Walter,White,walter.white@company.com,+34 826 72 50 95,2024-08-22,1958-09-07,M,Yes
+E0050,Jesse,Pinkman,jesse.pinkman@company.com,+34872 50 94 18,2022-07-16,1984-09-24,M,Yes
+E0051,Skyler,White,skyler.white@company.com,+34877 127 477,2024-06-30,1970-08-11,F,Yes
+E0052,Hank,Schrader,hank.schrader@company.com,+34 986586408,2024-12-18,1966-11-15,M,Yes
+E0053,Saul,Goodman,saul.goodman@company.com,+34977 332 538,2023-08-26,1960-11-12,M,Yes
+E0054,Gustavo,Fring,gustavo.fring@company.com,+34 823 402 024,2022-05-31,1958-12-05,M,Yes
+E0055,Jon,Snow,jon.snow@company.com,+34 900 560 810,2025-02-02,1995-12-25,M,No
+E0056,Daenerys,Targaryen,daenerys.targaryen@company.com,+34 984 397 145,2025-08-06,1996-04-13,F,Yes
+E0057,Tyrion,Lannister,tyrion.lannister@company.com,+34 922698143,2023-02-18,1985-02-01,M,No
+E0058,Cersei,Lannister,cersei.lannister@company.com,+34947 720 134,2023-01-21,1978-06-23,F,Yes
+E0059,Jaime,Lannister,jaime.lannister@company.com,+34 942 540 988,2025-09-20,1978-05-24,M,Yes
+E0060,Arya,Stark,arya.stark@company.com,+34981 88 08 78,2023-03-07,1998-01-03,F,Yes
+E0061,Sansa,Stark,sansa.stark@company.com,+34 880 31 70 95,2024-02-13,1996-04-02,F,No
+E0062,Gregory,House,gregory.house@company.com,+34 887 41 27 51,2024-09-13,1959-06-11,M,Yes
+E0063,James,Wilson,james.wilson@company.com,+34947 71 95 46,2024-01-01,1969-09-28,M,Yes
+E0064,Eric,Foreman,eric.foreman@company.com,+34954 577 228,2021-05-22,1973-10-04,M,Yes
+E0065,Allison,Cameron,allison.cameron@company.com,+34884 510 430,2023-01-05,1977-10-20,F,Yes
+E0066,Robert,Chase,robert.chase@company.com,+34 984245590,2024-03-29,1979-10-24,M,Yes
+E0067,Lisa,Cuddy,lisa.cuddy@company.com,+34 710 073 838,2022-05-07,1968-12-23,F,Yes
+E0068,Jane,Hopper,jane.hopper@company.com,+34849 40 06 23,2020-09-19,2009-01-01,F,Yes
+E0069,Mike,Wheeler,mike.wheeler@company.com,+34 886554653,2023-12-19,2008-04-07,M,Yes
+E0070,Dustin,Henderson,dustin.henderson@company.com,+34 925 63 07 19,2023-09-13,2008-11-21,M,Yes
+E0071,Lucas,Sinclair,lucas.sinclair@company.com,+34 928570744,2020-06-06,2008-05-04,M,Yes
+E0072,Joyce,Byers,joyce.byers@company.com,+34979 83 32 57,2021-05-30,1965-12-01,F,Yes
+E0073,John,Dorian,john.dorian@company.com,+34 876 290 076,2020-12-13,1975-06-13,M,Yes
+E0074,Christopher,Turk,christopher.turk@company.com,+34 962 382 809,2020-12-04,1975-07-21,M,No
+E0075,Elliot,Reid,elliot.reid@company.com,+34875 482 902,2024-09-04,1975-08-28,F,Yes
+E0076,Carla,Espinosa,carla.espinosa@company.com,+34 706523217,2021-07-13,1973-05-10,F,Yes
+E0077,Perry,Cox,perry.cox@company.com,+34 978 75 59 72,2024-07-10,1965-05-08,M,Yes
+E0078,Bob,Kelso,bob.kelso@company.com,+34881633790,2021-01-20,1950-01-19,M,Yes
+E0079,Jordan,Sullivan,jordan.sullivan@company.com,+34 884 491 384,2020-05-24,1967-07-14,F,Yes
+E0080,Ted,Buckland,ted.buckland@company.com,+34 988 621 023,2022-06-02,1962-01-05,M,Yes
+E0081,Meredith,Grey,meredith.grey@company.com,+34 872 859 347,2022-01-13,1978-01-02,F,Yes
+E0082,Derek,Shepherd,derek.shepherd@company.com,+34 821378916,2024-07-13,1966-04-07,M,Yes
+E0083,Cristina,Yang,cristina.yang@company.com,+34 744 238 999,2025-01-05,1979-12-25,F,Yes
+E0084,Miranda,Bailey,miranda.bailey@company.com,+34873 36 91 79,2024-09-17,1969-12-09,F,No
+E0085,Logan,Roy,logan.roy@company.com,+34 947 953 469,2024-05-12,1940-10-20,M,Yes
+E0086,Kendall,Roy,kendall.roy@company.com,+34 800 285 465,2020-11-23,1978-04-25,M,Yes
+E0087,Shiv,Roy,shiv.roy@company.com,+34926768609,2024-03-10,1985-04-25,F,Yes
+E0088,Roman,Roy,roman.roy@company.com,+34 803 447 321,2025-01-29,1982-01-18,M,Yes
+E0089,Carmen,Berzatto,carmen.berzatto@company.com,+34 727074805,2021-06-12,1990-04-03,M,Yes
+E0090,Sydney,Adamu,sydney.adamu@company.com,+34 926967168,2025-06-02,1992-06-27,F,Yes
+E0091,Richard,Jerimovich,richard.jerimovich@company.com,+34 949 194 140,2025-08-17,1975-11-24,M,Yes
+E0092,Marcus,Brooks,marcus.brooks@company.com,+34848970131,2021-05-15,1995-06-20,M,Yes
+E0093,Tina,Marrero,tina.marrero@company.com,+34824898017,2020-04-08,1980-03-10,F,Yes
+E0094,Phil,Dunphy,phil.dunphy@company.com,+34971848949,2022-07-16,1969-04-03,M,Yes
+E0095,Claire,Dunphy,claire.dunphy@company.com,+34 979721437,2022-07-10,1970-01-28,F,Yes
+E0096,Haley,Dunphy,haley.dunphy@company.com,+34985 124 863,2023-03-24,1993-12-10,F,No
+E0097,Alex,Dunphy,alex.dunphy@company.com,+34 824 235 274,2023-01-22,1996-01-14,F,Yes
+E0098,Luke,Dunphy,luke.dunphy@company.com,+34 816 53 49 77,2020-10-11,1998-06-02,M,Yes
+E0099,Jay,Pritchett,jay.pritchett@company.com,+34 842 98 86 57,2023-07-10,1947-12-11,M,Yes
+E0100,Gloria,Delgado,gloria.delgado@company.com,+34 887 59 56 67,2024-01-04,1971-05-10,F,Yes
+E0101,Cameron,Tucker,cameron.tucker@company.com,+34709929644,2021-08-20,1975-02-28,M,Yes
+E0102,Mitchell,Pritchett,mitchell.pritchett@company.com,+34 827 957 466,2023-03-03,1975-04-26,M,Yes
+E0103,Harry,Potter,harry.potter@company.com,+34878672637,2024-08-31,1980-07-31,M,Yes
+E0104,Hermione,Granger,hermione.granger@company.com,+34 947 95 23 44,2020-12-21,1979-09-19,F,Yes
+E0105,Ron,Weasley,ron.weasley@company.com,+34900 692 406,2022-07-05,1980-03-01,M,Yes
+E0106,Severus,Snape,severus.snape@company.com,+34 982 91 57 92,2025-05-02,1960-01-09,M,Yes
+E0107,Minerva,McGonagall,minerva.mcgonagall@company.com,+34 821 980 666,2025-05-10,1943-10-04,F,No
+E0108,Albus,Dumbledore,albus.dumbledore@company.com,+34 871 587 133,2021-04-09,1940-08-01,M,No
+E0109,Frodo,Baggins,frodo.baggins@company.com,+34825 548 823,2025-04-28,1968-09-22,M,Yes
+E0110,Samwise,Gamgee,samwise.gamgee@company.com,+34749 16 83 17,2023-07-03,1963-04-06,M,Yes
+E0111,Gandalf,Grey,gandalf.grey@company.com,+34880 029 807,2022-04-18,1940-05-06,M,Yes
+E0112,Aragorn,Elessar,aragorn.elessar@company.com,+34 987740312,2021-12-25,1945-12-18,M,Yes
+E0113,Legolas,Greenleaf,legolas.greenleaf@company.com,+34 824 684 570,2022-06-05,1950-09-03,M,Yes
+E0114,Gimli,Gloinsson,gimli.gloinsson@company.com,+34888410191,2025-06-30,1955-05-08,M,Yes
+E0115,Tony,Stark,tony.stark@company.com,+34 949684340,2023-11-14,1970-05-29,M,Yes
+E0116,Steve,Rogers,steve.rogers@company.com,+34985 102 149,2021-05-08,1962-07-04,M,Yes
+E0117,Natasha,Romanoff,natasha.romanoff@company.com,+34881 393 796,2025-05-31,1984-11-22,F,Yes
+E0118,Bruce,Banner,bruce.banner@company.com,+34 980071704,2024-06-05,1969-12-18,M,Yes
+E0119,Thor,Odinson,thor.odinson@company.com,+34842 706 356,2024-09-14,1950-05-06,M,No
+E0120,Wanda,Maximoff,wanda.maximoff@company.com,+34847 431 704,2023-09-24,1989-10-17,F,Yes
+E0121,Peter,Parker,peter.parker@company.com,+34975 150 481,2024-04-19,2001-08-10,M,No
+E0122,Stephen,Strange,stephen.strange@company.com,+34 979 39 30 93,2021-11-18,1976-11-18,M,No
+E0123,Carol,Danvers,carol.danvers@company.com,+34825 504 332,2021-06-12,1968-07-19,F,Yes
+E0124,Scott,Lang,scott.lang@company.com,+34 942339922,2024-10-14,1979-02-19,M,Yes
+E0125,Bruce,Wayne,bruce.wayne@company.com,+34842 28 67 34,2021-06-06,1972-02-19,M,Yes
+E0126,Selina,Kyle,selina.kyle@company.com,+34 701 62 47 87,2024-09-19,1985-11-14,F,No
+E0127,James,Gordon,james.gordon@company.com,+34988245357,2022-10-04,1970-05-06,M,Yes
+E0128,Harvey,Dent,harvey.dent@company.com,+34978 536 414,2021-04-26,1974-12-10,M,Yes
+E0129,Alfred,Pennyworth,alfred.pennyworth@company.com,+34873065047,2022-10-25,1943-07-23,M,Yes
+E0130,Oswald,Cobblepot,oswald.cobblepot@company.com,+34 877 46 82 14,2022-08-13,1982-01-12,M,No
+E0131,Edward,Nygma,edward.nygma@company.com,+34922 41 60 44,2024-03-23,1980-04-20,M,Yes
+E0132,Barbara,Kean,barbara.kean@company.com,+34 826 84 98 74,2021-11-06,1987-07-13,F,Yes
+E0133,Rick,Grimes,rick.grimes@company.com,+34 843976832,2020-10-03,1976-11-07,M,Yes
+E0134,Daryl,Dixon,daryl.dixon@company.com,+34943594693,2021-12-02,1969-05-26,M,Yes
+E0135,Carol,Peletier,carol.peletier@company.com,+34985 42 60 19,2020-08-08,1968-03-12,F,Yes
+E0136,Maggie,Greene,maggie.greene@company.com,+34 945 71 05 48,2025-10-03,1983-07-28,F,Yes
+E0137,Glenn,Rhee,glenn.rhee@company.com,+34715 49 56 43,2020-02-24,1983-10-26,M,Yes
+E0138,Jack,Shephard,jack.shephard@company.com,+34 843 848 852,2021-06-15,1969-08-16,M,No
+E0139,Kate,Austen,kate.austen@company.com,+34 826 559 620,2021-10-19,1977-09-13,F,Yes
+E0140,Five,Hargreeves,five.hargreeves@company.com,+34971385900,2025-03-30,1989-10-01,M,Yes
+E0141,Klaus,Hargreeves,klaus.hargreeves@company.com,+34824 444 936,2021-09-30,1989-10-01,M,No
+E0142,Billy,Butcher,billy.butcher@company.com,+34872 96 29 02,2021-12-09,1975-07-10,M,Yes
+E0143,Hughie,Campbell,hughie.campbell@company.com,+34 978 560 855,2021-07-29,1994-08-20,M,No
+E0144,Annie,January,annie.january@company.com,+34827889547,2023-04-15,1995-06-10,F,Yes
+E0145,John,Homelander,john.homelander@company.com,+34 944 772 384,2025-06-17,1981-07-12,M,No
+E0146,Kimiko,Miyashiro,kimiko.miyashiro@company.com,+34 881 181 159,2024-04-20,1990-06-01,F,Yes
+E0147,Maggie,Shaw,maggie.shaw@company.com,+34979 741 934,2020-12-25,1985-07-15,F,Yes
+E0148,Serge,Frenchie,serge.frenchie@company.com,+34 876 219 745,2021-06-08,1982-11-20,M,Yes
+E0149,Reggie,Franklin,reggie.franklin@company.com,+34844 86 52 57,2023-09-21,1986-05-15,M,Yes
+E0150,Marvin,Milk,marvin.milk@company.com,+34846 315 268,2023-11-12,1978-03-18,M,No

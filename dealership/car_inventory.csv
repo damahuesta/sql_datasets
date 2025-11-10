@@ -1,0 +1,201 @@
+VehicleId,Brand,CarModel,Year,Color,Transmission,FuelType,Mileage,Price,DateAdded
+7155-BJY,BMW,X3,2022,Negro,Manual,Gasolina,73441.0,38914.71,2024-11-09
+7854-LVZ,Toyota,Camry,2024,Rojo,Automática,Gasolina,32635.0,24987.05,2025-08-29
+9770-XMF,Peugeot,2008,2025,Azul,Manual,Híbrido,17680.0,28583.2,2025-06-23
+2419-WSH,,Kuga,2020,Azul,Manual,Gasolina,32895.0,19411.55,2024-12-31
+4040-GDC,Toyota,RAV4,2023,Gris,Automática,Híbrido,45483.0,24451.22,2025-03-30
+4729-TDW,Hyundai,i30,2023,Plata,Manual,Diésel,32367.0,25488.58,2025-04-13
+1750-WMP,Peugeot,3008,2021,Rojo,Manual,Diésel,82649.0,22115.88,2025-06-05
+8970-DYC,Mercedes-Benz,GLC,2020,Rojo,Manual,Híbrido,49769.0,54608.53,2025-09-08
+9176-PNB,Peugeot,2008,2021,Rojo,Manual,Diésel,77220.0,23008.25,2024-11-13
+2589-PHD,BMW,Serie 3,2023,Rojo,Manual,Híbrido,15055.0,44298.51,2024-10-29
+5187-GKH,Ford,Kuga,2020,Negro,Manual,Gasolina,55446.0,23205.39,2025-08-26
+6426-GPV,Volkswagen,Polo,2021,Azul,Automática,Híbrido,55755.0,26163.88,2025-01-30
+9452-DGM,Audi,Q3,2024,Rojo,Manual,Gasolina,28320.0,45727.0,2025-03-14
+8767-BZY,BMW,Serie 3,2021,Rojo,Manual,Diésel,77267.0,42330.37,2025-04-06
+0827-TBD,BMW,Serie 3,2021,Negro,Manual,Diésel,29812.0,51086.04,2025-08-15
+1261-DRG,Peugeot,3008,2020,Rojo,Automática,Híbrido,15021.0,23266.93,2024-12-14
+4138-KBW,Peugeot,208,2023,Azul,Manual,Híbrido,13969.0,22421.3,2025-05-19
+8260-RGP,Seat,Ateca,2025,Rojo,Automática,Híbrido,10010.0,25838.9,2025-08-13
+4630-WNJ,Ford,Focus,2021,Gris,Automática,Gasolina,78928.0,24649.38,2025-10-10
+4700-XDF,Mercedes-Benz,Clase C,2022,Gris,Manual,Gasolina,68552.0,48452.5,2025-09-28
+0631-MXP,Hyundai,i30,2021,Blanco,Automática,Diésel,52947.0,20927.09,2025-10-13
+6557-ZYK,,Ceed,2025,Rojo,Automática,Gasolina,1459.0,24721.67,2025-01-06
+8838-TLG,BMW,Serie 3,2025,Plata,Manual,Híbrido,2185.0,45928.8,2024-10-30
+6351-XGS,Volkswagen,Golf,2022,Rojo,Manual,Gasolina,55294.0,27524.2,2025-09-27
+5666-RMX,Toyota,Corolla,2023,Negro,Automática,Diésel,29702.0,28040.44,2024-12-02
+3086-SMW,Peugeot,2008,2022,Rojo,Automática,Gasolina,50114.0,23264.91,2025-08-09
+5523-DVW,Mercedes-Benz,Clase C,2023,Plata,Manual,Gasolina,42555.0,48990.6,2024-12-26
+2197-MHK,BMW,Serie 3,2021,Blanco,Manual,Gasolina,87699.0,41135.81,2025-01-15
+5217-PWW,BMW,X3,2022,Blanco,Automática,Híbrido,65287.0,46082.87,2025-09-27
+0166-RVJ,Ford,Kuga,2020,Gris,Automática,Híbrido,41076.0,20538.99,2025-04-28
+3410-HFX,Volkswagen,Tiguan,2022,Blanco,Automática,Gasolina,21387.0,24592.99,2025-07-08
+8073-YDB,Toyota,RAV4,2020,Blanco,Manual,Diésel,20126.0,26688.11,2025-02-25
+1229-DJP,Mercedes-Benz,Clase C,2020,Azul,Manual,Híbrido,108851.0,54578.14,2025-06-13
+7344-ZDM,Peugeot,2008,2024,Azul,Manual,Diésel,6223.0,22745.1,2025-02-28
+8948-XDT,Volkswagen,Golf,2023,Negro,Automática,Diésel,19786.0,29158.07,2025-04-25
+3824-WJM,Peugeot,3008,2022,Rojo,Automática,Diésel,13297.0,25140.64,2025-03-12
+5384-PLJ,BMW,X3,2022,Gris,Automática,Híbrido,53069.0,41908.32,2025-02-19
+5798-GZT,Hyundai,i30,2025,Plata,Automática,Diésel,7724.0,21595.05,2025-05-19
+9496-TZP,Audi,A3,2025,Plata,Automática,Gasolina,3859.0,38616.94,2025-07-12
+9478-HSK,Mercedes-Benz,GLC,2020,Plata,Manual,Híbrido,118711.0,55197.99,2025-03-26
+0934-STG,Hyundai,i30,2021,Plata,Manual,Gasolina,2285.0,21212.74,2025-01-16
+0882-YVV,Mercedes-Benz,Clase C,2023,Rojo,Manual,Gasolina,5529.0,52568.13,2025-09-29
+2976-TMS,Seat,León,2023,Gris,Manual,Diésel,40484.0,23403.24,2025-10-06
+7329-CHC,BMW,Serie 3,2023,Plata,Automática,Gasolina,43220.0,49765.83,2024-11-21
+4752-SHY,Seat,León,2022,Azul,Manual,Gasolina,21872.0,25506.86,2025-02-10
+3843-TXW,Hyundai,Tucson,2020,Plata,Manual,Diésel,57584.0,23880.07,2024-12-13
+2162-YJK,Seat,Arona,2024,Azul,Automática,Gasolina,37221.0,23120.61,2025-07-29
+1904-XWX,Volkswagen,Polo,2021,Blanco,Manual,Híbrido,92041.0,28603.53,2025-09-28
+6902-JBP,Hyundai,Tucson,2024,Gris,Automática,Gasolina,36285.0,26579.81,2025-02-20
+4550-YDX,BMW,Serie 5,2020,Azul,Automática,Gasolina,3580.0,39077.37,2025-04-20
+2739-LZP,Hyundai,Tucson,2021,Gris,Manual,Gasolina,86884.0,20693.3,2025-01-23
+0554-GVM,Mercedes-Benz,GLC,2022,Azul,Automática,Gasolina,37243.0,44348.34,2024-10-30
+6355-XLH,Ford,Kuga,2021,Negro,Manual,Gasolina,80253.0,20990.36,2025-03-16
+6083-HZD,Volkswagen,Golf,2023,Rojo,Manual,Gasolina,5140.0,27558.38,2025-06-29
+3027-JGB,Seat,Ateca,2020,Rojo,Automática,Híbrido,65049.0,25696.29,2025-09-30
+3941-MPV,BMW,X3,2023,Plata,Manual,Híbrido,25993.0,42039.4,2024-12-06
+1064-SPZ,Audi,A3,2021,Rojo,Manual,Diésel,87902.0,41611.36,2025-07-28
+6697-HXB,Seat,Ateca,2025,Gris,Manual,Híbrido,15581.0,25577.38,2025-01-06
+4331-LRW,Ford,Focus,2020,Azul,Manual,Diésel,71633.0,23968.45,2025-08-13
+3154-LFW,Toyota,Corolla,2023,Plata,Manual,Gasolina,6083.0,26285.02,2025-08-23
+4260-KZC,Seat,Ateca,2020,Rojo,Automática,Híbrido,7054.0,22708.15,2025-07-05
+2847-RKG,Audi,A3,2021,Negro,Manual,Híbrido,81982.0,42012.25,2024-11-12
+4201-RDB,Kia,Ceed,2024,Azul,Manual,Gasolina,32344.0,23962.01,2025-05-02
+4570-TXC,Ford,Focus,2023,Gris,Manual,Híbrido,39915.0,19237.66,2024-12-03
+2644-PLB,Hyundai,Tucson,2023,Negro,Manual,Diésel,8245.0,26647.94,2024-11-18
+2563-KYM,Kia,Sportage,2024,Negro,Manual,Híbrido,1560.0,25483.68,2025-02-10
+4922-FSD,Peugeot,2008,2023,Rojo,Manual,Gasolina,22019.0,26516.38,2025-02-14
+7644-RPH,Audi,Q3,2025,Azul,Automática,Gasolina,5124.0,43497.08,2025-07-22
+5287-GNW,Mercedes-Benz,GLC,2021,Rojo,Manual,Diésel,94157.0,53777.73,2024-12-27
+4939-JKJ,Audi,A3,2022,Azul,Manual,Diésel,29206.0,38451.82,2024-11-03
+8798-XPB,Ford,Kuga,2025,Azul,Manual,Diésel,16359.0,19003.75,2025-01-15
+3233-VMX,Toyota,RAV4,2023,Gris,Automática,Diésel,8468.0,22672.13,2025-09-13
+9756-KPH,Hyundai,i30,2022,Rojo,Manual,Gasolina,1752.0,27524.61,2025-09-11
+6800-JDD,Mercedes-Benz,Clase C,2025,Negro,Automática,Híbrido,11909.0,42909.54,2025-10-10
+8853-SGD,Kia,Sportage,2020,Gris,Manual,Gasolina,110098.0,26396.97,2025-02-05
+0885-RDP,Mercedes-Benz,Clase C,2024,Rojo,Automática,Diésel,2160.0,53184.94,2025-01-15
+5058-LMY,Toyota,Camry,2022,Blanco,Automática,Diésel,56065.0,24676.22,2025-02-27
+1429-DYS,Seat,Arona,2020,Gris,Automática,Diésel,55158.0,25997.8,2025-10-06
+5001-HGB,BMW,Serie 5,2025,Negro,Manual,Híbrido,4327.0,48591.31,2025-06-29
+6852-PTT,BMW,Serie 5,2025,Azul,Automática,Híbrido,6345.0,49545.45,2025-07-06
+3864-JWR,Volkswagen,Tiguan,2022,Plata,Automática,Híbrido,16746.0,27763.43,2025-07-27
+1404-RTP,Toyota,RAV4,2021,Blanco,Automática,Gasolina,51049.0,25078.97,2025-06-12
+6788-SKM,Toyota,Corolla,2021,Azul,Manual,Híbrido,16819.0,28244.25,2025-04-25
+5630-ZFR,Audi,A3,2021,Azul,Automática,Gasolina,18092.0,37212.48,2025-10-11
+9835-RJW,Ford,Kuga,2025,Blanco,Automática,Híbrido,14849.0,24938.23,2025-06-20
+8902-SXS,Volkswagen,Golf,2021,Blanco,Automática,Híbrido,64962.0,31343.22,2025-01-18
+4598-DMP,Volkswagen,Golf,2021,Gris,Manual,Diésel,1657.0,31356.08,2025-01-12
+6947-JCX,Mercedes-Benz,Clase C,2023,Gris,Manual,Gasolina,19276.0,50777.7,2025-01-27
+8003-GDZ,Volkswagen,Golf,2023,Plata,Automática,Híbrido,22246.0,26054.48,2025-05-13
+0289-NMT,Kia,Ceed,2024,Plata,Manual,Gasolina,33933.0,25595.86,2025-03-08
+1253-CWL,Ford,Kuga,2021,Azul,Automática,Híbrido,23785.0,25229.7,2025-05-12
+9718-DCN,Mercedes-Benz,GLC,2020,Blanco,Manual,Gasolina,35464.0,44399.85,2025-08-20
+2916-MRH,Seat,Ateca,2025,Gris,Automática,Gasolina,15458.0,22142.93,2025-06-25
+0721-JTD,Ford,Kuga,2021,Rojo,Automática,Diésel,39565.0,24221.03,2024-12-04
+6468-FSH,Peugeot,208,2020,Plata,Manual,Híbrido,21398.0,23890.28,2024-11-12
+3062-CPF,Toyota,Corolla,2023,Negro,Manual,Diésel,13943.0,27682.18,2025-05-23
+2158-DPH,Audi,Q3,2022,Rojo,Manual,Gasolina,44665.0,41892.38,2024-11-09
+3458-FXL,Seat,Arona,2020,Plata,Automática,Diésel,118078.0,20394.94,2025-03-24
+1021-LCK,Ford,Focus,2022,Negro,Manual,Gasolina,57243.0,18811.05,2025-08-03
+2584-WCT,Kia,Sportage,2023,Plata,Manual,Gasolina,2718.0,23051.68,2025-02-14
+4202-VMJ,BMW,Serie 5,2022,Azul,Manual,Híbrido,3602.0,48195.63,2025-05-28
+9737-YKM,Hyundai,i30,2023,Gris,Automática,Diésel,12043.0,21057.33,2025-05-05
+8311-MLJ,Seat,León,2023,Gris,Manual,Gasolina,8715.0,23672.79,2025-02-02
+8005-PJM,BMW,Serie 5,2021,Plata,Manual,Híbrido,94092.0,40174.15,2025-05-11
+5570-BGB,Mercedes-Benz,Clase C,2021,Blanco,Automática,Híbrido,11148.0,49575.65,2024-12-14
+8244-YXL,Kia,Ceed,2021,Negro,Automática,Híbrido,27581.0,25795.52,2024-10-18
+0769-MRB,Volkswagen,Tiguan,2022,Negro,Manual,Diésel,33953.0,31351.76,2025-08-09
+8774-TWD,Audi,Q3,2023,Negro,Automática,Gasolina,43407.0,36879.23,2025-01-12
+8910-YJP,Ford,Kuga,2023,Gris,Automática,Gasolina,12594.0,24056.99,2025-05-08
+8595-DNY,Seat,León,2020,Gris,Manual,Gasolina,63253.0,24978.71,2025-10-02
+6798-YGT,Audi,Q3,2024,Negro,Automática,Gasolina,32504.0,43679.12,2025-04-20
+1690-CWC,Hyundai,i30,2025,Negro,Automática,Diésel,10179.0,21758.36,2025-01-02
+7080-TZT,Audi,A3,2024,Azul,Automática,Diésel,5025.0,42605.54,2024-12-30
+9045-LXM,Kia,Sportage,2020,Rojo,Automática,Híbrido,69514.0,23348.67,2025-04-01
+6613-WCZ,Kia,Ceed,2023,Gris,Automática,Diésel,23197.0,23518.17,2024-10-16
+3176-WJJ,Audi,Q3,2021,Plata,Manual,Gasolina,92845.0,44145.17,2025-08-07
+8567-YGG,Kia,Sportage,2021,Plata,Manual,Diésel,77725.0,21299.23,2024-12-06
+4901-YMN,Hyundai,Tucson,2024,Negro,Automática,Diésel,5472.0,25668.85,2024-11-27
+6096-ZFZ,Hyundai,i30,2024,Blanco,Automática,Diésel,22861.0,25549.46,2025-02-07
+3358-ZPW,Toyota,RAV4,2024,Rojo,Manual,Híbrido,25067.0,25655.21,2024-12-17
+4338-RJN,Ford,Kuga,2024,Plata,Manual,Diésel,3149.0,20610.07,2024-10-16
+2551-XLT,Kia,Sportage,2021,Azul,Automática,Híbrido,42247.0,21579.3,2025-08-06
+4349-MRJ,Peugeot,208,2020,Plata,Automática,Diésel,4501.0,25995.39,2025-04-26
+2442-VVF,Audi,A3,2023,Negro,Manual,Híbrido,45454.0,45430.12,2024-12-30
+2685-CGN,Hyundai,i30,2021,Plata,Automática,Híbrido,83566.0,21086.36,2025-01-30
+5739-VWN,Ford,Kuga,2023,Gris,Manual,Gasolina,57921.0,23135.29,2025-03-21
+4133-MFL,Peugeot,2008,2020,Gris,Manual,Gasolina,39382.0,25190.81,2025-10-04
+3489-RTB,Ford,Kuga,2025,Gris,Manual,Híbrido,13468.0,24829.4,2025-01-15
+2994-TTZ,Audi,A3,2022,Gris,Automática,Diésel,31402.0,36523.74,2025-08-09
+2427-SSZ,Volkswagen,Golf,2024,Azul,Automática,Híbrido,16734.0,30736.33,2025-03-02
+1096-GDP,Volkswagen,Polo,2022,Negro,Automática,Gasolina,12775.0,30434.72,2025-05-13
+2353-PRH,Toyota,Camry,2020,Azul,Automática,Diésel,26916.0,21550.68,2025-07-10
+7838-CXH,Peugeot,208,2022,Plata,Automática,Híbrido,47957.0,26786.23,2024-10-23
+3982-DJM,Audi,A3,2021,Blanco,Manual,Híbrido,99279.0,45369.03,2025-02-25
+2445-THG,BMW,Serie 5,2024,Negro,Automática,Híbrido,38791.0,49720.47,2024-11-21
+4425-JHX,Ford,Kuga,2025,Azul,Automática,Gasolina,4614.0,23640.15,2025-01-12
+6647-MWZ,Peugeot,2008,2021,Gris,Automática,Híbrido,45482.0,21748.21,2025-07-20
+6634-HMN,Seat,Arona,2024,Plata,Automática,Diésel,5233.0,19578.88,2025-08-13
+0973-XHH,Mercedes-Benz,Clase C,2024,Rojo,Manual,Híbrido,18788.0,44076.53,2025-01-26
+0698-BWV,BMW,X3,2022,Blanco,Automática,Híbrido,23638.0,43846.71,2025-05-09
+9859-HZZ,Mercedes-Benz,GLC,2024,Blanco,Manual,Diésel,22535.0,44580.88,2024-12-29
+5397-PWS,Volkswagen,Polo,2025,Negro,Automática,Gasolina,5661.0,24687.76,2025-03-21
+5309-KKL,Peugeot,3008,2024,Negro,Automática,Diésel,31352.0,27914.68,2025-05-24
+0969-MCT,Kia,Ceed,2022,Gris,Automática,Gasolina,59294.0,23486.92,2024-11-12
+9194-GRB,Ford,Kuga,2025,Rojo,Manual,Diésel,12028.0,20466.12,2025-04-19
+2193-MKK,Toyota,RAV4,2025,Negro,Manual,Híbrido,15970.0,28534.84,2025-06-07
+6544-GCX,Mercedes-Benz,GLC,2022,Negro,Automática,Híbrido,62571.0,41603.34,2025-02-28
+8370-PDD,Seat,León,2024,Plata,Automática,Diésel,23887.0,24996.71,2025-05-16
+6142-VKZ,Audi,Q3,2025,Blanco,Manual,Gasolina,10346.0,46532.95,2025-09-05
+0823-XMT,Hyundai,i30,2021,Blanco,Automática,Híbrido,83356.0,20635.34,2025-03-18
+7910-KZH,Toyota,Corolla,2023,Blanco,Manual,Gasolina,15054.0,24122.65,2024-11-30
+7978-LMM,BMW,Serie 3,2023,Rojo,Automática,Diésel,49822.0,49198.54,2025-10-08
+4226-PLR,Kia,Sportage,2025,Rojo,Manual,Diésel,2432.0,25713.58,2024-12-06
+8185-VJL,BMW,X3,2022,Rojo,Automática,Gasolina,71881.0,48105.03,2025-07-30
+7382-KCG,Toyota,Corolla,2025,Rojo,Automática,Diésel,4791.0,27264.06,2025-09-12
+4215-JVT,Ford,Kuga,2024,Plata,Automática,Diésel,2836.0,24489.98,2025-08-30
+2803-PZL,Hyundai,Tucson,2020,Azul,Automática,Híbrido,13957.0,24049.13,2025-01-24
+7530-TFH,Hyundai,Tucson,2021,Plata,Manual,Diésel,93807.0,23412.62,2024-12-16
+3612-ZVD,Kia,Ceed,2024,Blanco,Automática,Diésel,10983.0,20077.55,2025-08-14
+4461-FMG,Ford,Kuga,2020,Plata,Automática,Diésel,74257.0,24609.65,2025-01-19
+5884-TRC,Toyota,RAV4,2020,Blanco,Automática,Diésel,42525.0,21306.54,2024-11-02
+0278-PVP,Audi,Q3,2022,Rojo,Automática,Diésel,53208.0,35775.41,2025-06-10
+3947-JTM,Ford,Focus,2024,Rojo,Automática,Diésel,8947.0,24254.45,2025-02-24
+2553-JPC,Toyota,Camry,2020,Plata,Automática,Diésel,5374.0,25376.76,2025-01-25
+4767-TPT,BMW,X3,2020,Rojo,Manual,Gasolina,16954.0,51126.42,2024-11-13
+9170-WWF,Toyota,Camry,2024,Blanco,Automática,Diésel,37364.0,22024.88,2025-06-18
+1513-YKW,Ford,Focus,2023,Blanco,Automática,Híbrido,43765.0,24634.28,2025-02-24
+0800-BGX,Ford,Focus,2021,Negro,Manual,Híbrido,66223.0,24236.16,2024-11-18
+8580-NHF,Peugeot,2008,2021,Azul,Manual,Híbrido,13477.0,26277.87,2025-02-21
+9986-HSG,Volkswagen,Tiguan,2020,Gris,Manual,Gasolina,3550.0,26861.76,2025-08-27
+6822-DVF,Volkswagen,Golf,2025,Gris,Automática,Híbrido,16639.0,26493.31,2025-09-22
+2667-KHV,Peugeot,2008,2024,Negro,Manual,Híbrido,8878.0,24111.4,2024-10-20
+5515-NVH,Mercedes-Benz,GLC,2024,Rojo,Manual,Híbrido,15293.0,45723.68,2025-10-11
+9426-PZR,Ford,Kuga,2024,Gris,Manual,Diésel,10282.0,21882.29,2024-12-21
+2300-RHG,BMW,Serie 3,2025,Plata,Manual,Híbrido,19998.0,43770.13,2024-11-03
+1910-VKW,Peugeot,3008,2024,Gris,Manual,Diésel,8181.0,23227.49,2024-10-30
+3989-HCF,Audi,Q3,2023,Azul,Manual,Diésel,53473.0,47485.49,2025-09-26
+5949-MGG,Peugeot,2008,2021,Blanco,Automática,Diésel,92100.0,26810.14,2025-05-09
+7572-THR,Volkswagen,Polo,2021,Negro,Automática,Híbrido,86163.0,25309.9,2024-12-17
+6822-LCP,BMW,X3,2021,Rojo,Automática,Diésel,38897.0,49896.66,2025-03-02
+0165-VGT,Toyota,RAV4,2025,Negro,Manual,Diésel,16066.0,21700.33,2025-08-26
+2045-PXN,Ford,Kuga,2022,Rojo,Manual,Diésel,64230.0,22303.54,2024-12-13
+4264-RSW,BMW,Serie 3,2024,Plata,Manual,Gasolina,7281.0,48906.16,2025-03-02
+5934-BXW,Ford,Kuga,2023,Gris,Automática,Híbrido,23493.0,21783.08,2024-11-01
+4521-HVV,Hyundai,i30,2023,Blanco,Automática,Híbrido,40115.0,24980.49,2024-10-26
+4216-LGJ,Ford,Kuga,2024,Gris,Automática,Gasolina,12603.0,21749.85,2025-09-29
+5614-TZG,Ford,Focus,2025,Azul,Automática,Gasolina,8301.0,24625.79,2025-03-07
+1690-NFN,Seat,Ateca,2020,Negro,Automática,Gasolina,17780.0,25853.72,2024-12-23
+3076-HWD,Seat,Ateca,2025,Rojo,Automática,Diésel,4855.0,24115.0,2025-06-20
+9992-LBL,Toyota,Camry,2021,Negro,Manual,Diésel,70754.0,26471.86,2025-07-27
+1395-SMH,Kia,Sportage,2020,Negro,Manual,Diésel,62178.0,23909.5,2024-11-04
+5698-SXF,Audi,Q3,2020,Rojo,Automática,Diésel,17329.0,40822.95,2024-12-05
+7230-NDB,BMW,Serie 3,2022,Azul,Manual,Híbrido,3193.0,40965.46,2024-10-22
+2641-SZX,Seat,León,2023,Rojo,Automática,Gasolina,11595.0,21650.48,2025-04-29
+3499-WZP,Kia,Sportage,2021,Negro,Automática,Gasolina,54557.0,24069.63,2025-01-07
+2261-JYL,Peugeot,208,2024,Gris,Manual,Gasolina,12471.0,23354.17,2025-02-21
+9277-MFY,Kia,Sportage,2025,Plata,Manual,Gasolina,12656.0,21589.35,2025-07-01
+0614-YRB,Toyota,RAV4,2022,Azul,Automática,Diésel,14513.0,24885.15,2025-06-13
+8361-FMC,BMW,X3,2020,Gris,Manual,Gasolina,115863.0,43912.03,2024-12-10
+8757-XYB,Volkswagen,Golf,2024,Plata,Automática,Híbrido,34152.0,31981.57,2025-02-26
