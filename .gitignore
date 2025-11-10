@@ -3,3 +3,4 @@
 /company/*.txt
 *.tsv.gz
 /spotify_tracks/raw/*
+.DS_Store
