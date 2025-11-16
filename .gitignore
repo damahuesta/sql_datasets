@@ -1,6 +1,36 @@
+# Archivos Python
 *.py
+
+# Documentación de company (ya existe en dataset/)
 /company/*.md
 /company/*.txt
+
+# Archivos raw de IMDB
 *.tsv.gz
+/imdb/raw/*
+
+# Archivos raw de Spotify
 /spotify_tracks/raw/*
+
+# Archivos del sistema
 .DS_Store
+
+# ========================================
+# DATASETS NO UTILIZADOS
+# Excluir datasets que no se usan en el curso
+# ========================================
+
+# MovieLens - no utilizado
+/movielens/
+
+# RENFE - no utilizado
+/renfe/
+
+# James Bond - no utilizado
+/jamesbond/
+
+# Rolling Stone - no utilizado
+/rollingsongs/
+
+# Videogames - no utilizado
+/videogames/
