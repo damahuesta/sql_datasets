@@ -202,8 +202,7 @@ erDiagram
         integer quantity
         float total_amount
     }
-
-\`\`\`
+```
 
 ---
 
