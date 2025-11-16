@@ -132,7 +132,7 @@ Este repositorio contiene una colección de datasets para prácticas de SQL y an
 
 ### Relaciones entre Tablas
 
-\`\`\`mermaid
+```mermaid
 erDiagram
     employees ||--o{ current_salaries : "tiene"
     employees ||--o{ job_history : "tiene"
@@ -258,7 +258,7 @@ erDiagram
 | EffectiveDate | DATE | Fecha de vigencia del precio |
 | Price | FLOAT | Precio en euros |
 
-\`\`\`mermaid
+```mermaid
 erDiagram
     supermarket_customers ||--o{ supermarket_orders : "realiza"
     supermarket_orders }o--|| supermarket_product_prices : "precio"
@@ -280,7 +280,7 @@ erDiagram
         date EffectiveDate PK
         float Price
     }
-\`\`\`
+```
 
 ### 4.2. University (2 tablas)
 
@@ -299,7 +299,7 @@ erDiagram
 | ClassID | INTEGER | ID único de la clase |
 | ClassName | STRING | Nombre de la clase |
 
-\`\`\`mermaid
+```mermaid
 erDiagram
     university_classes ||--o{ university_students : "inscrito"
     
@@ -313,7 +313,7 @@ erDiagram
         string Name
         integer ClassID FK
     }
-\`\`\`
+```
 
 ### 4.3. HR Departments (3 tablas)
 
