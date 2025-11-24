@@ -223,6 +223,7 @@ erDiagram
 | FuelType | STRING | Tipo de combustible (Gasolina/Híbrido/Diésel) |
 | Mileage | FLOAT | Kilometraje |
 | Price | FLOAT | Precio en euros |
+| RegistrationDate | STRING | Fecha de primera matrícula (formato YYYY-MM-DD) |
 | DateAdded | DATE | Fecha de ingreso al inventario |
 
 ---
@@ -400,12 +401,12 @@ Tres tablas con la misma estructura para practicar operaciones UNION:
 | Nombre | STRING | Nombre |
 | Apellido1 | STRING | Primer apellido |
 | Apellido2 | STRING | Segundo apellido |
-| FechaNacimiento | DATE | Fecha de nacimiento |
+| FechaNacimiento | STRING | Fecha de nacimiento (formato YYYY-MM-DD) |
 | Edad | INTEGER | Edad actual |
 | Programa | STRING | Programa cursado |
 | SiglasPrograma | STRING | Siglas del programa (DMBA, MDA, etc.) |
 | Email | STRING | Email educativo |
-| FechaMatriculacion | DATE | Fecha de matrícula |
+| FechaMatriculacion | STRING | Fecha de matrícula (formato YYYY-MM-DD) |
 
 ---
 
