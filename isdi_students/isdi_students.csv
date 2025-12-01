@@ -1,316 +1,316 @@
 IdEstudiante,Nombre,Apellido1,Apellido2,FechaNacimiento,Edad,Programa,SiglasPrograma,Email,FechaMatriculacion
-1,Feliciana,Cantón,Amaya,1999-01-29,26,Digital MBA,DMBA,fcanton@dmba.isdi.education,2025-02-27
-2,Manuela,Llopis,Hierro,1999-10-21,26,Digital MBA,DMBA,mllopis@dmba.isdi.education,2025-05-21
-3,Jacinto,Chaparro,Calatayud,1998-02-23,27,Digital MBA,DMBA,jchaparro@dmba.isdi.education,2025-04-25
-4,Inmaculada,Bonet,Roca,1995-10-25,30,Digital MBA,DMBA,ibonet@dmba.isdi.education,2025-02-22
-5,Amílcar,Andrés,Bueno,2000-12-15,24,Digital MBA,DMBA,aandres@dmba.isdi.education,2025-02-14
-6,Isaías,Guerrero,Vazquez,2000-11-01,25,Digital MBA,DMBA,iguerrero@dmba.isdi.education,2025-08-05
-7,Eligia,Amor,Flor,1995-07-10,30,Digital MBA,DMBA,eamor@dmba.isdi.education,2025-01-16
-8,Lilia,Rivas,Giménez,1997-08-20,28,Digital MBA,DMBA,lrivas@dmba.isdi.education,2025-04-22
-9,Vidal,Lobo,Agudo,2000-12-03,24,Digital MBA,DMBA,vlobo@dmba.isdi.education,2025-09-16
-10,Martina,Cuervo,Rocamora,1998-11-29,27,Digital MBA,DMBA,mcuervo@dmba.isdi.education,2025-01-14
-11,Noé,Lobo,Cortés,2001-05-14,24,Digital MBA,DMBA,nlobo@dmba.isdi.education,2025-04-12
-12,Ildefonso,Navarro,Calatayud,2001-06-30,24,Digital MBA,DMBA,inavarro@dmba.isdi.education,2025-08-03
-13,Cirino,Pinto,Caballero,1999-02-16,26,Digital MBA,DMBA,cpinto@dmba.isdi.education,2025-08-18
-14,Plinio,Núñez,Lamas,2004-03-30,21,Digital MBA,DMBA,pnunez@dmba.isdi.education,2025-05-23
-15,Noemí,Aroca,Segovia,2003-06-06,22,Digital MBA,DMBA,naroca@dmba.isdi.education,2025-03-23
-16,Brunilda,Casanovas,Pinedo,2001-10-22,24,Digital MBA,DMBA,bcasanovas@dmba.isdi.education,2025-08-05
-17,Cayetano,Marcos,Pardo,2002-06-07,23,Digital MBA,DMBA,cmarcos@dmba.isdi.education,2025-05-23
-18,Crescencia,Fernandez,Baños,1998-11-09,27,Digital MBA,DMBA,cfernandez@dmba.isdi.education,2025-04-21
-19,Artemio,Goñi,Mancebo,2002-03-01,23,Digital MBA,DMBA,agoni@dmba.isdi.education,2025-02-22
-20,Cebrián,Guerrero,Cabrero,2003-01-30,22,Digital MBA,DMBA,cguerrero@dmba.isdi.education,2025-07-14
-21,Ricardo,Lobo,Santana,1995-11-24,30,Digital MBA,DMBA,rlobo@dmba.isdi.education,2025-07-03
-22,Fabiola,Patiño,Cánovas,2000-06-21,25,Digital MBA,DMBA,fpatino@dmba.isdi.education,2025-05-16
-23,Raimundo,Padilla,Gallego,1999-04-26,26,Digital MBA,DMBA,rpadilla@dmba.isdi.education,2025-08-24
-24,Herminia,Lasa,Bellido,2003-09-26,22,Digital MBA,DMBA,hlasa@dmba.isdi.education,2025-03-05
-25,Emelina,Donoso,Hierro,2001-04-24,24,Digital MBA,DMBA,edonoso@dmba.isdi.education,2025-02-10
-26,Fernando,Sevilla,Pino,1999-12-02,25,Digital MBA,DMBA,fsevilla@dmba.isdi.education,2025-05-31
-27,Julián,Gimenez,Morata,2003-03-07,22,Digital MBA,DMBA,jgimenez@dmba.isdi.education,2025-07-05
-28,Pía,Barba,Grande,1999-04-18,26,Digital MBA,DMBA,pbarba@dmba.isdi.education,2025-04-09
-29,Paca,Antón,Moles,2001-11-29,24,Digital MBA,DMBA,panton@dmba.isdi.education,2025-02-05
-30,Salvador,Leal,Batalla,2000-03-20,25,Digital MBA,DMBA,sleal@dmba.isdi.education,2025-04-27
-31,Héctor,Miranda,Garcia,2001-05-02,24,Digital MBA,DMBA,hmiranda@dmba.isdi.education,2025-02-10
-32,Gabriela,Valera,Priego,1995-02-14,30,Digital MBA,DMBA,gvalera@dmba.isdi.education,2025-02-21
-33,Soledad,Segarra,Clavero,1999-12-28,25,Digital MBA,DMBA,ssegarra@dmba.isdi.education,2025-05-23
-34,Juan Manuel,Chaparro,Huerta,2002-09-14,23,Digital MBA,DMBA,jchaparro1@dmba.isdi.education,2025-07-06
-35,Marcela,Jódar,Romero,1997-08-06,28,Digital MBA,DMBA,mjodar@dmba.isdi.education,2025-07-09
-36,Tomasa,Pujol,Paredes,2002-12-21,22,Digital MBA,DMBA,tpujol@dmba.isdi.education,2025-04-18
-37,Isidoro,Chacón,Vergara,1999-11-04,26,Digital MBA,DMBA,ichacon@dmba.isdi.education,2025-05-17
-38,Ana,Bou,Arévalo,2004-05-27,21,Digital MBA,DMBA,abou@dmba.isdi.education,2025-02-06
-39,Rosalinda,Canals,Coronado,2003-08-05,22,Digital MBA,DMBA,rcanals@dmba.isdi.education,2025-03-29
-40,Eulalia,Cuesta,Roca,1999-09-06,26,Digital MBA,DMBA,ecuesta@dmba.isdi.education,2025-05-06
-41,Débora,Bartolomé,Plaza,1997-10-22,28,Digital MBA,DMBA,dbartolome@dmba.isdi.education,2025-08-25
-42,Rico,Solé,Ángel,1999-07-12,26,Digital MBA,DMBA,rsole@dmba.isdi.education,2025-05-19
-43,José,Alberdi,Carbó,2000-08-10,25,Digital MBA,DMBA,jalberdi@dmba.isdi.education,2025-04-23
-44,Isabel,Lasa,Nieto,2001-02-18,24,Digital MBA,DMBA,ilasa@dmba.isdi.education,2025-06-16
-45,Dani,Marin,Royo,2003-03-13,22,Digital MBA,DMBA,dmarin@dmba.isdi.education,2025-04-28
-46,Fausto,Santiago,Acero,1997-12-27,27,Master in Data Analytics,MDA,fsantiago@mda.isdi.education,2025-06-11
-47,Lorenza,Lago,Valle,1997-08-07,28,Master in Data Analytics,MDA,llago@mda.isdi.education,2025-05-18
-48,María Belén,Escalona,Vera,1991-10-27,34,Master in Data Analytics,MDA,mescalona@mda.isdi.education,2025-04-19
-49,Ximena,Camino,Martín,1995-01-08,30,Master in Data Analytics,MDA,xcamino@mda.isdi.education,2025-06-11
-50,Prudencia,Vera,Flor,2001-09-19,24,Master in Data Analytics,MDA,pvera@mda.isdi.education,2025-09-13
-51,Ezequiel,Pereira,Cuéllar,1994-11-05,31,Master in Data Analytics,MDA,epereira@mda.isdi.education,2025-08-23
-52,Calista,Abascal,Morante,1996-12-21,28,Master in Data Analytics,MDA,cabascal@mda.isdi.education,2025-05-16
-53,Amaya,Aliaga,Caparrós,1997-12-27,27,Master in Data Analytics,MDA,aaliaga@mda.isdi.education,2025-05-07
-54,Úrsula,Parejo,Meléndez,1994-01-27,31,Master in Data Analytics,MDA,uparejo@mda.isdi.education,2025-05-15
-55,Jose,Barco,Hernando,1992-08-21,33,Master in Data Analytics,MDA,jbarco@mda.isdi.education,2025-08-08
-56,Selena,Bermúdez,Boada,1992-12-26,32,Master in Data Analytics,MDA,sbermudez@mda.isdi.education,2025-07-24
-57,Lupita,Torre,Bayón,1998-11-14,27,Master in Data Analytics,MDA,ltorre@mda.isdi.education,2025-04-23
-58,Martirio,Casas,Castellanos,1996-09-13,29,Master in Data Analytics,MDA,mcasas@mda.isdi.education,2025-09-18
-59,Georgina,Talavera,Dalmau,1994-12-16,30,Master in Data Analytics,MDA,gtalavera@mda.isdi.education,2025-02-16
-60,Juan Manuel,Álamo,Rocha,1992-01-30,33,Master in Data Analytics,MDA,jalamo@mda.isdi.education,2025-02-26
-61,Héctor,Font,Mesa,1997-04-26,28,Master in Data Analytics,MDA,hfont@mda.isdi.education,2025-03-23
-62,Sabas,Perea,Ríos,1997-01-11,28,Master in Data Analytics,MDA,sperea@mda.isdi.education,2025-08-05
-63,Trinidad,Villar,Sanmiguel,2000-02-18,25,Master in Data Analytics,MDA,tvillar@mda.isdi.education,2025-02-02
-64,Dionisio,Huguet,Gomila,2000-02-25,25,Master in Data Analytics,MDA,dhuguet@mda.isdi.education,2025-07-15
-65,Bernardo,Neira,Almazán,1993-06-02,32,Master in Data Analytics,MDA,bneira@mda.isdi.education,2025-08-28
-66,Dionisia,Grau,Giménez,1991-06-04,34,Master in Data Analytics,MDA,dgrau@mda.isdi.education,2025-05-09
-67,Adrián,Belda,Barral,1996-06-14,29,Master in Data Analytics,MDA,abelda@mda.isdi.education,2025-01-06
-68,Jenaro,Bauzà,Angulo,1992-11-13,33,Master in Data Analytics,MDA,jbauzà@mda.isdi.education,2025-02-28
-69,Rosalina,Murillo,Belda,1995-02-13,30,Master in Data Analytics,MDA,rmurillo@mda.isdi.education,2025-05-17
-70,Aroa,Gárate,Lopez,1998-08-01,27,Master in Data Analytics,MDA,agarate@mda.isdi.education,2025-06-24
-71,Haydée,Torralba,Gargallo,1994-04-27,31,Master in Data Analytics,MDA,htorralba@mda.isdi.education,2025-05-31
-72,Calista,Catalán,Suárez,1990-08-28,35,Master in Data Analytics,MDA,ccatalan@mda.isdi.education,2025-03-22
-73,Jose Carlos,Suárez,Ramírez,1996-03-09,29,Master in Data Analytics,MDA,jsuarez@mda.isdi.education,2025-01-02
-74,Goyo,Busquets,Caballero,1990-04-28,35,Master in Data Analytics,MDA,gbusquets@mda.isdi.education,2025-09-14
-75,Genoveva,Rosa,Pablo,2001-09-02,24,Master in Data Analytics,MDA,grosa@mda.isdi.education,2025-09-17
-76,Teo,Reig,Solera,1992-09-13,33,Master in Data Analytics,MDA,treig@mda.isdi.education,2025-06-02
-77,Rosario,Balaguer,Cabello,1996-01-07,29,Master in Data Analytics,MDA,rbalaguer@mda.isdi.education,2025-09-17
-78,Benjamín,Quevedo,Nicolau,1997-04-28,28,Master in Data Analytics,MDA,bquevedo@mda.isdi.education,2025-04-12
-79,Nereida,Canales,Ibarra,1995-04-27,30,Master in Data Analytics,MDA,ncanales@mda.isdi.education,2025-07-11
-80,Gregorio,Falcón,Sanabria,2001-08-24,24,Master in Data Analytics,MDA,gfalcon@mda.isdi.education,2025-09-29
-81,Enrique,Roca,Español,1996-03-12,29,Master in Data Analytics,MDA,eroca@mda.isdi.education,2025-06-15
-82,León,Sevillano,Iborra,1994-11-11,31,Master in Data Analytics,MDA,lsevillano@mda.isdi.education,2025-01-10
-83,Sandra,Benet,Salazar,1990-05-31,35,Master in Data Analytics,MDA,sbenet@mda.isdi.education,2025-07-05
-84,Nuria,Cabañas,Ayuso,1997-09-02,28,Master in Data Analytics,MDA,ncabanas@mda.isdi.education,2025-05-03
-85,Florinda,Alcolea,Bueno,1998-05-02,27,Master in Data Analytics,MDA,falcolea@mda.isdi.education,2025-05-04
-86,Ángeles,Guzmán,Delgado,1997-12-22,27,Master in Data Analytics,MDA,aguzman@mda.isdi.education,2025-02-10
-87,Santos,Torralba,Teruel,1992-05-05,33,Master in Data Analytics,MDA,storralba@mda.isdi.education,2025-09-06
-88,Ignacio,Quero,Barral,1994-05-17,31,Master in Data Analytics,MDA,iquero@mda.isdi.education,2025-09-30
-89,Fidel,Pinilla,Abril,1997-06-15,28,Master in Data Analytics,MDA,fpinilla@mda.isdi.education,2025-03-07
-90,Rosario,Lara,Sanz,1994-07-22,31,Master in Data Analytics,MDA,rlara@mda.isdi.education,2025-09-01
-91,Lucho,Rocha,Torrecilla,1992-10-23,33,Master in Digital Marketing,MDM,lrocha@mdm.isdi.education,2025-03-26
-92,Fabián,Falcó,Martin,1988-12-04,36,Master in Digital Marketing,MDM,ffalco@mdm.isdi.education,2025-09-28
-93,Isaac,Barragán,Barrera,1996-01-31,29,Master in Digital Marketing,MDM,ibarragan@mdm.isdi.education,2025-08-05
-94,Mariana,Mir,Barceló,1994-01-13,31,Master in Digital Marketing,MDM,mmir@mdm.isdi.education,2025-04-13
-95,Aureliano,Tapia,Valverde,1994-06-07,31,Master in Digital Marketing,MDM,atapia@mdm.isdi.education,2025-07-24
-96,Zaira,Criado,Barberá,1999-03-21,26,Master in Digital Marketing,MDM,zcriado@mdm.isdi.education,2025-07-11
-97,Apolonia,Bernat,Estevez,1991-11-10,34,Master in Digital Marketing,MDM,abernat@mdm.isdi.education,2025-09-22
-98,Bruno,Bayo,Gutierrez,1992-01-07,33,Master in Digital Marketing,MDM,bbayo@mdm.isdi.education,2025-03-03
-99,Sancho,Carretero,Hoz,1992-10-02,33,Master in Digital Marketing,MDM,scarretero@mdm.isdi.education,2025-04-26
-100,Cristina,Ariño,Bilbao,1993-06-15,32,Master in Digital Marketing,MDM,carino@mdm.isdi.education,2025-06-23
-101,Simón,Yáñez,Molina,1998-02-11,27,Master in Digital Marketing,MDM,syanez@mdm.isdi.education,2025-04-28
-102,Juan Carlos,Fuente,Miralles,1994-12-08,30,Master in Digital Marketing,MDM,jfuente@mdm.isdi.education,2025-04-23
-103,Jorge,Lara,Priego,1993-10-22,32,Master in Digital Marketing,MDM,jlara@mdm.isdi.education,2025-02-06
-104,Eleuterio,Marín,Sebastián,1996-07-09,29,Master in Digital Marketing,MDM,emarin@mdm.isdi.education,2025-01-31
-105,Maximiano,Belmonte,Agustí,1993-05-24,32,Master in Digital Marketing,MDM,mbelmonte@mdm.isdi.education,2025-02-04
-106,Álvaro,Cabo,Beltrán,1990-11-10,35,Master in Digital Marketing,MDM,acabo@mdm.isdi.education,2025-06-19
-107,Brígida,Garcés,Velasco,1984-12-27,40,Master in Digital Marketing,MDM,bgarces@mdm.isdi.education,2025-09-21
-108,Juan Manuel,Cazorla,Oller,1992-01-24,33,Master in Digital Marketing,MDM,jcazorla@mdm.isdi.education,2025-05-23
-109,Socorro,Bayona,Hidalgo,1992-05-02,33,Master in Digital Marketing,MDM,sbayona@mdm.isdi.education,2025-09-06
-110,Rafael,López,Cruz,1993-01-09,32,Master in Digital Marketing,MDM,rlopez@mdm.isdi.education,2025-03-09
-111,Urbano,Mate,Ángel,2000-03-22,25,Master in Digital Marketing,MDM,umate@mdm.isdi.education,2025-08-31
-112,Adán,Marí,Calleja,1992-11-15,33,Master in Digital Marketing,MDM,amari@mdm.isdi.education,2025-08-31
-113,Selena,Cañizares,Lamas,1992-10-04,33,Master in Digital Marketing,MDM,scanizares@mdm.isdi.education,2025-04-08
-114,David,Campo,Cortés,1983-07-26,42,Master in Digital Marketing,MDM,dcampo@mdm.isdi.education,2025-02-19
-115,Lalo,Luján,Galvez,1994-02-13,31,Master in Digital Marketing,MDM,llujan@mdm.isdi.education,2025-08-09
-116,Liliana,Novoa,Frutos,1991-09-20,34,Master in Digital Marketing,MDM,lnovoa@mdm.isdi.education,2025-08-05
-117,Jacinta,Laguna,Vega,1993-02-21,32,Master in Digital Marketing,MDM,jlaguna@mdm.isdi.education,2025-08-28
-118,Amaya,Iglesias,Azcona,1997-03-05,28,Master in Digital Marketing,MDM,aiglesias@mdm.isdi.education,2025-02-20
-119,Cirino,Roda,Lloret,1987-12-12,37,Master in Digital Marketing,MDM,croda@mdm.isdi.education,2025-07-26
-120,Arsenio,Acevedo,Múgica,1989-11-24,36,Master in Digital Marketing,MDM,aacevedo@mdm.isdi.education,2025-02-25
-121,María Manuela,Castrillo,Juárez,1989-08-13,36,Master in Digital Marketing,MDM,mcastrillo@mdm.isdi.education,2025-04-09
-122,Felix,Sala,Roma,1996-04-30,29,Master in Digital Marketing,MDM,fsala@mdm.isdi.education,2025-08-18
-123,Chelo,Agustí,Caparrós,1987-01-06,38,Master in Digital Marketing,MDM,cagusti@mdm.isdi.education,2025-08-05
-124,Carlos,Company,Araujo,1998-04-15,27,Master in Digital Marketing,MDM,ccompany@mdm.isdi.education,2025-05-23
-125,Perlita,Peiró,Colomer,1990-09-24,35,Master in Digital Marketing,MDM,ppeiro@mdm.isdi.education,2025-05-08
-126,Tito,Castell,Arnaiz,1983-10-11,42,Master in Digital Marketing,MDM,tcastell@mdm.isdi.education,2025-08-15
-127,Mario,Pastor,Ariño,1997-02-27,28,Master in Digital Marketing,MDM,mpastor@mdm.isdi.education,2025-02-20
-128,Trini,Pallarès,Gallo,1994-10-05,31,Master in Digital Marketing,MDM,tpallarès@mdm.isdi.education,2025-01-08
-129,Isabel,Iborra,Calderon,1992-02-28,33,Master in Digital Marketing,MDM,iiborra@mdm.isdi.education,2025-05-02
-130,Paulino,Ramos,Cortes,1994-09-04,31,Master in Digital Marketing,MDM,pramos@mdm.isdi.education,2025-07-28
-131,Ángela,Guzmán,Cámara,1999-04-22,26,Master in Digital Marketing,MDM,aguzman@mdm.isdi.education,2025-09-04
-132,Nereida,Elorza,Revilla,1992-06-14,33,Master in Digital Marketing,MDM,nelorza@mdm.isdi.education,2025-07-25
-133,Amador,Escobar,Márquez,1996-10-03,29,Master in Digital Marketing,MDM,aescobar@mdm.isdi.education,2025-03-26
-134,Micaela,Requena,Hurtado,1991-01-25,34,Master in Digital Marketing,MDM,mrequena@mdm.isdi.education,2025-01-02
-135,Juanito,Cuervo,Campoy,1996-08-25,29,Master in Digital Marketing,MDM,jcuervo@mdm.isdi.education,2025-05-16
-136,Roberto,Arias,Sosa,1981-04-28,44,Master in International Business,MIB,rarias@mib.isdi.education,2025-05-27
-137,Iván,Flores,Seguí,1992-12-08,32,Master in International Business,MIB,iflores@mib.isdi.education,2025-09-07
-138,Pancho,Mayoral,Goñi,1990-04-04,35,Master in International Business,MIB,pmayoral@mib.isdi.education,2025-04-08
-139,Jacinto,Alvarez,Ferrando,1984-10-12,41,Master in International Business,MIB,jalvarez@mib.isdi.education,2025-04-22
-140,Sabas,Moya,Lopez,1994-08-30,31,Master in International Business,MIB,smoya@mib.isdi.education,2025-02-01
-141,Rosaura,Baños,Lorenzo,1987-09-25,38,Master in International Business,MIB,rbanos@mib.isdi.education,2025-01-30
-142,Pascual,Vergara,Pulido,1981-12-20,43,Master in International Business,MIB,pvergara@mib.isdi.education,2025-09-02
-143,Iris,Muñoz,Amorós,1997-03-02,28,Master in International Business,MIB,imunoz@mib.isdi.education,2025-09-29
-144,David,Julián,Escalona,1987-09-24,38,Master in International Business,MIB,djulian@mib.isdi.education,2025-01-30
-145,Custodia,Lara,Arenas,1987-11-05,38,Master in International Business,MIB,clara@mib.isdi.education,2025-02-11
-146,César,Rovira,Ojeda,1984-10-14,41,Master in International Business,MIB,crovira@mib.isdi.education,2025-02-05
-147,Luisina,Mir,Rubio,1995-06-12,30,Master in International Business,MIB,lmir@mib.isdi.education,2025-02-04
-148,Eloísa,Vidal,Carlos,1995-12-22,29,Master in International Business,MIB,evidal@mib.isdi.education,2025-05-01
-149,Rogelio,Falcón,Iñiguez,1986-05-22,39,Master in International Business,MIB,rfalcon@mib.isdi.education,2025-03-03
-150,Arsenio,Rubio,Abellán,1987-09-30,38,Master in International Business,MIB,arubio@mib.isdi.education,2025-05-07
-151,Aurora,Figueras,Pascual,1987-12-28,37,Master in International Business,MIB,afigueras@mib.isdi.education,2025-01-21
-152,Tomás,Becerra,Murillo,1987-07-27,38,Master in International Business,MIB,tbecerra@mib.isdi.education,2025-02-11
-153,Estrella,Mir,Casanovas,1992-06-01,33,Master in International Business,MIB,emir@mib.isdi.education,2025-09-25
-154,Lola,Mas,Vendrell,1987-09-18,38,Master in International Business,MIB,lmas@mib.isdi.education,2025-05-14
-155,Martin,Real,Morera,1987-04-03,38,Master in International Business,MIB,mreal@mib.isdi.education,2025-06-10
-156,Samuel,Marqués,Castejón,1992-05-02,33,Master in International Business,MIB,smarques@mib.isdi.education,2025-05-16
-157,Gregorio,Rivero,Pinilla,1979-08-30,46,Master in International Business,MIB,grivero@mib.isdi.education,2025-03-09
-158,Inés,Dávila,Mascaró,1987-01-02,38,Master in International Business,MIB,idavila@mib.isdi.education,2025-06-03
-159,Santiago,Abad,Mateu,1995-01-10,30,Master in International Business,MIB,sabad@mib.isdi.education,2025-06-11
-160,Luciano,Gallo,Ropero,1985-04-02,40,Master in International Business,MIB,lgallo@mib.isdi.education,2025-01-05
-161,Mireia,Montserrat,Sola,1993-12-10,31,Master in International Business,MIB,mmontserrat@mib.isdi.education,2025-02-21
-162,Vasco,Salamanca,García,1984-08-07,41,Master in International Business,MIB,vsalamanca@mib.isdi.education,2025-04-20
-163,Ariadna,Sáenz,Doménech,1983-05-09,42,Master in International Business,MIB,asaenz@mib.isdi.education,2025-05-16
-164,Genoveva,Blazquez,Luz,1992-09-18,33,Master in International Business,MIB,gblazquez@mib.isdi.education,2025-06-28
-165,Aránzazu,Naranjo,Bueno,1983-09-18,42,Master in International Business,MIB,anaranjo@mib.isdi.education,2025-05-06
-166,Olivia,Gutierrez,Menéndez,1986-11-20,39,Master in International Business,MIB,ogutierrez@mib.isdi.education,2025-05-26
-167,Jafet,Flor,Colom,1984-07-17,41,Master in International Business,MIB,jflor@mib.isdi.education,2025-08-13
-168,Amador,Arteaga,Hierro,1979-09-19,46,Master in International Business,MIB,aarteaga@mib.isdi.education,2025-06-04
-169,Aitana,Beltran,Sarabia,1990-07-07,35,Master in International Business,MIB,abeltran@mib.isdi.education,2025-09-28
-170,Severino,Ferreras,Plana,1992-03-17,33,Master in International Business,MIB,sferreras@mib.isdi.education,2025-06-03
-171,Ana Belén,Pulido,Hervás,1993-10-21,32,Master in International Business,MIB,apulido@mib.isdi.education,2025-02-23
-172,Eusebio,Adán,Campillo,1992-09-10,33,Master in International Business,MIB,eadan@mib.isdi.education,2025-05-16
-173,Melania,Rodríguez,Gilabert,1988-12-23,36,Master in International Business,MIB,mrodriguez@mib.isdi.education,2025-02-24
-174,Gabriel,Villaverde,Sobrino,1987-07-03,38,Master in International Business,MIB,gvillaverde@mib.isdi.education,2025-03-21
-175,Aureliano,Ibañez,Carrión,1987-06-07,38,Master in International Business,MIB,aibanez@mib.isdi.education,2025-05-25
-176,Yago,Cañellas,Sobrino,1985-02-22,40,Master in International Business,MIB,ycanellas@mib.isdi.education,2025-04-18
-177,Guadalupe,Molins,Salas,1988-11-05,37,Master in International Business,MIB,gmolins@mib.isdi.education,2025-04-15
-178,Emperatriz,Vargas,Roldan,1982-02-17,43,Master in International Business,MIB,evargas@mib.isdi.education,2025-05-16
-179,Paulina,Salmerón,Cuenca,1990-06-17,35,Master in International Business,MIB,psalmeron@mib.isdi.education,2025-09-08
-180,Mar,Taboada,Sandoval,1977-10-15,48,Master in International Business,MIB,mtaboada@mib.isdi.education,2025-01-27
-181,Juan Antonio,Huertas,Lluch,1977-02-15,48,Digital Business Executive Program,DIBEX,jhuertas@dibex.isdi.education,2025-08-05
-182,María Dolores,Vázquez,Tormo,1985-07-14,40,Digital Business Executive Program,DIBEX,mvazquez@dibex.isdi.education,2025-01-23
-183,Eugenia,Haro,Llobet,1986-04-29,39,Digital Business Executive Program,DIBEX,eharo@dibex.isdi.education,2025-06-20
-184,Valerio,Berenguer,Macias,1977-12-19,47,Digital Business Executive Program,DIBEX,vberenguer@dibex.isdi.education,2025-05-15
-185,Joel,Llabrés,Narváez,1981-11-21,44,Digital Business Executive Program,DIBEX,jllabres@dibex.isdi.education,2025-08-15
-186,Miguel,Berrocal,Chacón,1977-04-14,48,Digital Business Executive Program,DIBEX,mberrocal@dibex.isdi.education,2025-08-07
-187,Eutropio,Guardia,Piñol,1978-08-15,47,Digital Business Executive Program,DIBEX,eguardia@dibex.isdi.education,2025-01-05
-188,Joaquina,Corominas,Gargallo,1980-12-29,44,Digital Business Executive Program,DIBEX,jcorominas@dibex.isdi.education,2025-02-08
-189,Bernardo,Ribera,Ramón,1986-01-21,39,Digital Business Executive Program,DIBEX,bribera@dibex.isdi.education,2025-03-18
-190,Natalio,Solano,Ricart,1989-07-12,36,Digital Business Executive Program,DIBEX,nsolano@dibex.isdi.education,2025-01-19
-191,Bernabé,Gabaldón,Rivera,1983-05-30,42,Digital Business Executive Program,DIBEX,bgabaldon@dibex.isdi.education,2025-03-17
-192,Roque,Aller,Pintor,1976-05-01,49,Digital Business Executive Program,DIBEX,raller@dibex.isdi.education,2025-03-07
-193,Albina,Aguado,Ortiz,1979-04-27,46,Digital Business Executive Program,DIBEX,aaguado@dibex.isdi.education,2025-06-07
-194,Marc,Porta,Rius,1987-10-17,38,Digital Business Executive Program,DIBEX,mporta@dibex.isdi.education,2025-01-21
-195,Bárbara,Giménez,Torrents,1979-12-27,45,Digital Business Executive Program,DIBEX,bgimenez@dibex.isdi.education,2025-04-18
-196,Isidoro,Llamas,Ruano,1979-04-11,46,Digital Business Executive Program,DIBEX,illamas@dibex.isdi.education,2025-05-08
-197,Amalia,Andres,Porcel,1986-03-25,39,Digital Business Executive Program,DIBEX,aandres@dibex.isdi.education,2025-02-22
-198,Nicodemo,Quiroga,Dalmau,1980-02-02,45,Digital Business Executive Program,DIBEX,nquiroga@dibex.isdi.education,2025-07-28
-199,Priscila,Solsona,Castell,1980-12-26,44,Digital Business Executive Program,DIBEX,psolsona@dibex.isdi.education,2025-03-21
-200,Esther,Amores,Prada,1987-01-19,38,Digital Business Executive Program,DIBEX,eamores@dibex.isdi.education,2025-03-25
-201,Dora,Amores,Blanes,1978-09-19,47,Digital Business Executive Program,DIBEX,damores@dibex.isdi.education,2025-07-31
-202,Fernanda,Romero,Cerdá,1977-05-22,48,Digital Business Executive Program,DIBEX,fromero@dibex.isdi.education,2025-04-02
-203,Roxana,Serrano,Espada,1974-12-13,50,Digital Business Executive Program,DIBEX,rserrano@dibex.isdi.education,2025-07-30
-204,Aureliano,Juan,Pinilla,1975-08-01,50,Digital Business Executive Program,DIBEX,ajuan@dibex.isdi.education,2025-05-08
-205,Nacio,Galán,Sanz,1988-05-19,37,Digital Business Executive Program,DIBEX,ngalan@dibex.isdi.education,2025-03-23
-206,Nacho,Nebot,Pinilla,1986-07-29,39,Digital Business Executive Program,DIBEX,nnebot@dibex.isdi.education,2025-02-25
-207,Leopoldo,Robles,Iniesta,1978-02-21,47,Digital Business Executive Program,DIBEX,lrobles@dibex.isdi.education,2025-01-20
-208,Perlita,Bilbao,Sosa,1978-04-09,47,Digital Business Executive Program,DIBEX,pbilbao@dibex.isdi.education,2025-04-24
-209,Alejo,Azorin,Olmo,1977-11-20,48,Digital Business Executive Program,DIBEX,aazorin@dibex.isdi.education,2025-08-24
-210,Jacobo,Bayona,Arjona,1968-12-07,57,Digital Business Executive Program,DIBEX,jbayona@dibex.isdi.education,2025-06-06
-211,Marisela,Anguita,Huertas,1977-08-13,48,Digital Business Executive Program,DIBEX,manguita@dibex.isdi.education,2025-04-25
-212,Heraclio,Almagro,Corominas,1974-03-25,51,Digital Business Executive Program,DIBEX,halmagro@dibex.isdi.education,2025-04-09
-213,Jorge,Cases,Sáenz,1975-10-02,50,Digital Business Executive Program,DIBEX,jcases@dibex.isdi.education,2025-06-18
-214,Haydée,Carbó,Gibert,1977-03-31,48,Digital Business Executive Program,DIBEX,hcarbo@dibex.isdi.education,2025-02-05
-215,Adela,Jaén,Peinado,1982-07-23,43,Digital Business Executive Program,DIBEX,ajaen@dibex.isdi.education,2025-06-29
-216,Florencio,Carbó,Céspedes,1977-03-01,48,Digital Business Executive Program,DIBEX,fcarbo@dibex.isdi.education,2025-09-18
-217,María,Campoy,Amigó,1985-03-30,40,Digital Business Executive Program,DIBEX,mcampoy@dibex.isdi.education,2025-06-19
-218,Úrsula,Mesa,Perez,1981-10-11,44,Digital Business Executive Program,DIBEX,umesa@dibex.isdi.education,2025-03-01
-219,Régulo,Fiol,Benitez,1983-06-21,42,Digital Business Executive Program,DIBEX,rfiol@dibex.isdi.education,2025-04-02
-220,Dora,Herrero,Cal,1980-10-19,45,Digital Business Executive Program,DIBEX,dherrero@dibex.isdi.education,2025-05-16
-221,Josefina,Mata,Carrillo,1968-06-30,57,Digital Business Executive Program,DIBEX,jmata@dibex.isdi.education,2025-02-25
-222,Natividad,Armengol,Olivera,1991-04-07,34,Digital Business Executive Program,DIBEX,narmengol@dibex.isdi.education,2025-08-11
-223,Berta,Romero,Pellicer,1977-02-23,48,Digital Business Executive Program,DIBEX,bromero@dibex.isdi.education,2025-06-10
-224,Bruno,Velasco,Nogueira,1989-11-29,36,Digital Business Executive Program,DIBEX,bvelasco@dibex.isdi.education,2025-09-19
-225,Albano,Rivera,Trillo,1983-03-12,42,Digital Business Executive Program,DIBEX,arivera@dibex.isdi.education,2025-07-17
-226,Curro,Rosselló,Paredes,1975-04-05,50,Data Analytics Executive Program,DAEX,crossello@daex.isdi.education,2025-04-08
-227,Fabiola,Segura,Coronado,1980-06-09,45,Data Analytics Executive Program,DAEX,fsegura@daex.isdi.education,2025-01-23
-228,Trinidad,Echeverría,Vélez,1986-12-21,38,Data Analytics Executive Program,DAEX,techeverria@daex.isdi.education,2025-01-01
-229,Florina,León,Tomás,1985-02-04,40,Data Analytics Executive Program,DAEX,fleon@daex.isdi.education,2025-04-11
-230,Adela,Ruano,Ledesma,1977-03-18,48,Data Analytics Executive Program,DAEX,aruano@daex.isdi.education,2025-08-09
-231,Mohamed,Higueras,Bolaños,1984-07-19,41,Data Analytics Executive Program,DAEX,mhigueras@daex.isdi.education,2025-06-19
-232,León,Sanmartín,Hervás,1980-02-14,45,Data Analytics Executive Program,DAEX,lsanmartin@daex.isdi.education,2025-06-10
-233,Maricela,Sobrino,Pinilla,1981-02-11,44,Data Analytics Executive Program,DAEX,msobrino@daex.isdi.education,2025-03-05
-234,Nicodemo,Andrade,Urrutia,1984-06-09,41,Data Analytics Executive Program,DAEX,nandrade@daex.isdi.education,2025-09-17
-235,Renata,Morcillo,Espada,1969-02-01,56,Data Analytics Executive Program,DAEX,rmorcillo@daex.isdi.education,2025-07-29
-236,Amarilis,Garay,Pacheco,1977-05-30,48,Data Analytics Executive Program,DAEX,agaray@daex.isdi.education,2025-07-26
-237,Nayara,Jordán,Niño,1991-05-28,34,Data Analytics Executive Program,DAEX,njordan@daex.isdi.education,2025-06-01
-238,Lino,Llorente,Agustín,1980-03-09,45,Data Analytics Executive Program,DAEX,lllorente@daex.isdi.education,2025-03-07
-239,Asunción,Feijoo,Boada,1984-05-05,41,Data Analytics Executive Program,DAEX,afeijoo@daex.isdi.education,2025-08-04
-240,Jose Antonio,Ramos,Torres,1976-09-06,49,Data Analytics Executive Program,DAEX,jramos@daex.isdi.education,2025-07-14
-241,Catalina,Hernandez,Tamayo,1985-09-27,40,Data Analytics Executive Program,DAEX,chernandez@daex.isdi.education,2025-03-31
-242,Flavia,Tudela,Samper,1981-12-06,43,Data Analytics Executive Program,DAEX,ftudela@daex.isdi.education,2025-06-04
-243,Mónica,Alemany,Buendía,1978-03-25,47,Data Analytics Executive Program,DAEX,malemany@daex.isdi.education,2025-01-01
-244,Macario,Giralt,Quiroga,1976-02-07,49,Data Analytics Executive Program,DAEX,mgiralt@daex.isdi.education,2025-05-27
-245,Jesusa,Hervia,Medina,1987-04-30,38,Data Analytics Executive Program,DAEX,jhervia@daex.isdi.education,2025-08-09
-246,Gracia,Peinado,Sáenz,1983-02-01,42,Data Analytics Executive Program,DAEX,gpeinado@daex.isdi.education,2025-06-14
-247,Carolina,Núñez,Roig,1983-09-13,42,Data Analytics Executive Program,DAEX,cnunez@daex.isdi.education,2025-08-15
-248,Marcia,Muro,Ortiz,1984-08-24,41,Data Analytics Executive Program,DAEX,mmuro@daex.isdi.education,2025-04-20
-249,Julia,Santiago,Lillo,1971-06-13,54,Data Analytics Executive Program,DAEX,jsantiago@daex.isdi.education,2025-08-31
-250,Mariano,Iglesias,Gual,1978-06-12,47,Data Analytics Executive Program,DAEX,miglesias@daex.isdi.education,2025-02-13
-251,Dionisio,Fernández,Moles,1987-10-07,38,Data Analytics Executive Program,DAEX,dfernandez@daex.isdi.education,2025-09-21
-252,Dimas,Esteve,Feliu,1976-04-27,49,Data Analytics Executive Program,DAEX,desteve@daex.isdi.education,2025-06-21
-253,Inocencio,Tomé,Lloret,1968-11-25,57,Data Analytics Executive Program,DAEX,itome@daex.isdi.education,2025-05-01
-254,Lourdes,Zamorano,Luna,1975-09-15,50,Data Analytics Executive Program,DAEX,lzamorano@daex.isdi.education,2025-06-08
-255,Cornelio,Ferrera,Marti,1989-02-07,36,Data Analytics Executive Program,DAEX,cferrera@daex.isdi.education,2025-04-12
-256,Javi,Paniagua,Escobar,1983-04-22,42,Data Analytics Executive Program,DAEX,jpaniagua@daex.isdi.education,2025-01-13
-257,Marciano,Alcalá,Castañeda,1973-07-15,52,Data Analytics Executive Program,DAEX,malcala@daex.isdi.education,2025-05-06
-258,Leocadio,Arroyo,Ballester,1984-12-28,40,Data Analytics Executive Program,DAEX,larroyo@daex.isdi.education,2025-02-07
-259,Carolina,Manzano,Cases,1978-08-21,47,Data Analytics Executive Program,DAEX,cmanzano@daex.isdi.education,2025-08-01
-260,Felicia,Tudela,Calderon,1977-01-22,48,Data Analytics Executive Program,DAEX,ftudela1@daex.isdi.education,2025-04-10
-261,Salud,Alberola,Luís,1986-07-04,39,Data Analytics Executive Program,DAEX,salberola@daex.isdi.education,2025-07-16
-262,Adora,Tejero,Saez,1981-06-16,44,Data Analytics Executive Program,DAEX,atejero@daex.isdi.education,2025-07-24
-263,Noé,Espinosa,Aznar,1990-10-08,35,Data Analytics Executive Program,DAEX,nespinosa@daex.isdi.education,2025-03-17
-264,José Antonio,Tejedor,Carbonell,1986-12-26,38,Data Analytics Executive Program,DAEX,jtejedor@daex.isdi.education,2025-01-03
-265,Paca,Bas,Pérez,1981-12-22,43,Data Analytics Executive Program,DAEX,pbas@daex.isdi.education,2025-08-06
-266,Amparo,Benavent,Baeza,1987-08-08,38,Data Analytics Executive Program,DAEX,abenavent@daex.isdi.education,2025-04-01
-267,Evaristo,Company,Mateu,1972-06-09,53,Data Analytics Executive Program,DAEX,ecompany@daex.isdi.education,2025-09-23
-268,Che,Hurtado,Carrasco,1988-12-12,36,Data Analytics Executive Program,DAEX,churtado@daex.isdi.education,2025-01-26
-269,Celestina,Rico,Gonzalez,1983-08-21,42,Data Analytics Executive Program,DAEX,crico@daex.isdi.education,2025-05-08
-270,Maura,Yáñez,Pintor,1979-11-21,46,Data Analytics Executive Program,DAEX,myanez@daex.isdi.education,2025-08-22
-271,Virgilio,Salas,Martinez,1972-09-13,53,Marketing Analytics Executive Program,MAEX,vsalas@maex.isdi.education,2025-08-26
-272,Rosalina,Romeu,Mayoral,1989-04-06,36,Marketing Analytics Executive Program,MAEX,rromeu@maex.isdi.education,2025-09-29
-273,Cloe,Barrena,Cabezas,1974-10-29,51,Marketing Analytics Executive Program,MAEX,cbarrena@maex.isdi.education,2025-06-12
-274,María Carmen,Galiano,Galván,1980-12-31,44,Marketing Analytics Executive Program,MAEX,mgaliano@maex.isdi.education,2025-09-16
-275,Juan Luis,Bertrán,Crespo,1986-06-06,39,Marketing Analytics Executive Program,MAEX,jbertran@maex.isdi.education,2025-08-17
-276,Jose,Durán,Benavides,1978-02-13,47,Marketing Analytics Executive Program,MAEX,jduran@maex.isdi.education,2025-09-01
-277,Faustino,Acedo,Real,1979-12-22,45,Marketing Analytics Executive Program,MAEX,facedo@maex.isdi.education,2025-05-13
-278,Virgilio,Soriano,Manuel,1984-01-30,41,Marketing Analytics Executive Program,MAEX,vsoriano@maex.isdi.education,2025-05-22
-279,Anacleto,Guardiola,Maldonado,1980-10-12,45,Marketing Analytics Executive Program,MAEX,aguardiola@maex.isdi.education,2025-09-06
-280,Lara,Luna,Santiago,1983-06-07,42,Marketing Analytics Executive Program,MAEX,lluna@maex.isdi.education,2025-05-03
-281,Calisto,Guillen,Lamas,1980-03-13,45,Marketing Analytics Executive Program,MAEX,cguillen@maex.isdi.education,2025-08-14
-282,Mirta,Figuerola,Rodríguez,1976-11-26,49,Marketing Analytics Executive Program,MAEX,mfiguerola@maex.isdi.education,2025-05-27
-283,Darío,Gomila,Company,1972-01-19,53,Marketing Analytics Executive Program,MAEX,dgomila@maex.isdi.education,2025-05-20
-284,Violeta,Larrañaga,Cisneros,1987-09-16,38,Marketing Analytics Executive Program,MAEX,vlarranaga@maex.isdi.education,2025-06-13
-285,Calixto,Barreda,Daza,1969-06-20,56,Marketing Analytics Executive Program,MAEX,cbarreda@maex.isdi.education,2025-02-11
-286,Mónica,Meléndez,Malo,1990-08-15,35,Marketing Analytics Executive Program,MAEX,mmelendez@maex.isdi.education,2025-03-19
-287,Valentín,Casanova,Solís,1981-08-05,44,Marketing Analytics Executive Program,MAEX,vcasanova@maex.isdi.education,2025-07-16
-288,Jennifer,Mateu,Quevedo,1978-03-05,47,Marketing Analytics Executive Program,MAEX,jmateu@maex.isdi.education,2025-03-20
-289,Lalo,Vall,Uribe,1979-03-11,46,Marketing Analytics Executive Program,MAEX,lvall@maex.isdi.education,2025-02-02
-290,Urbano,Bernat,Ariño,1984-06-10,41,Marketing Analytics Executive Program,MAEX,ubernat@maex.isdi.education,2025-07-28
-291,Tamara,Rosales,Mora,1982-01-16,43,Marketing Analytics Executive Program,MAEX,trosales@maex.isdi.education,2025-08-27
-292,Elisabet,Ibáñez,Amigó,1983-09-23,42,Marketing Analytics Executive Program,MAEX,eibanez@maex.isdi.education,2025-02-01
-293,Ciriaco,Granados,Almansa,1983-12-19,41,Marketing Analytics Executive Program,MAEX,cgranados@maex.isdi.education,2025-08-04
-294,María Del Carmen,Leon,Arjona,1976-04-24,49,Marketing Analytics Executive Program,MAEX,mleon@maex.isdi.education,2025-01-11
-295,María Carmen,Díez,Sosa,1979-04-13,46,Marketing Analytics Executive Program,MAEX,mdiez@maex.isdi.education,2025-07-14
-296,Aurelia,Salamanca,Lobo,1984-11-30,41,Marketing Analytics Executive Program,MAEX,asalamanca@maex.isdi.education,2025-01-04
-297,Gerardo,Ruano,Téllez,1975-12-27,49,Marketing Analytics Executive Program,MAEX,gruano@maex.isdi.education,2025-06-02
-298,Ciriaco,Soriano,Oliveras,1979-04-18,46,Marketing Analytics Executive Program,MAEX,csoriano@maex.isdi.education,2025-08-03
-299,Sebastian,Mínguez,Montesinos,1976-09-21,49,Marketing Analytics Executive Program,MAEX,sminguez@maex.isdi.education,2025-04-23
-300,Herminia,Calvo,Cuevas,1977-08-29,48,Marketing Analytics Executive Program,MAEX,hcalvo@maex.isdi.education,2025-04-23
-301,Narciso,Requena,Valbuena,1985-05-17,40,Marketing Analytics Executive Program,MAEX,nrequena@maex.isdi.education,2025-08-12
-302,Luis,Pérez,Arco,1984-03-12,41,Marketing Analytics Executive Program,MAEX,lperez@maex.isdi.education,2025-01-15
-303,Wálter,Borja,Miranda,1976-11-15,49,Marketing Analytics Executive Program,MAEX,wborja@maex.isdi.education,2025-06-22
-304,José Antonio,Morales,Carmona,1978-01-07,47,Marketing Analytics Executive Program,MAEX,jmorales@maex.isdi.education,2025-07-27
-305,María Teresa,Quintero,Vilar,1980-10-12,45,Marketing Analytics Executive Program,MAEX,mquintero@maex.isdi.education,2025-08-28
-306,Paloma,Abella,Sevilla,1979-12-21,45,Marketing Analytics Executive Program,MAEX,pabella@maex.isdi.education,2025-10-01
-307,Severiano,Ballester,Expósito,1973-06-14,52,Marketing Analytics Executive Program,MAEX,sballester@maex.isdi.education,2025-07-21
-308,Aura,Pardo,Valentín,1984-07-08,41,Marketing Analytics Executive Program,MAEX,apardo@maex.isdi.education,2025-01-14
-309,Eufemia,Salamanca,Aznar,1977-07-18,48,Marketing Analytics Executive Program,MAEX,esalamanca@maex.isdi.education,2025-08-08
-310,Herminio,Lasa,Castro,1981-09-26,44,Marketing Analytics Executive Program,MAEX,hlasa@maex.isdi.education,2025-08-25
-311,Áurea,Maestre,Ríos,1981-11-20,44,Marketing Analytics Executive Program,MAEX,amaestre@maex.isdi.education,2025-01-26
-312,Silvia,Tormo,Carrión,1974-10-06,51,Marketing Analytics Executive Program,MAEX,stormo@maex.isdi.education,2025-07-14
-313,Ambrosio,Heras,Cuadrado,1976-05-10,49,Marketing Analytics Executive Program,MAEX,aheras@maex.isdi.education,2025-04-19
-314,María,Alcalá,Raya,1976-08-07,49,Marketing Analytics Executive Program,MAEX,malcala@maex.isdi.education,2025-06-17
-315,Ciro,Gomila,Carballo,1973-09-25,52,Marketing Analytics Executive Program,MAEX,cgomila@maex.isdi.education,2025-07-14
+1,Feliciana,Cantón,Amaya,1999-01-31,26,Digital MBA,DMBA,fcanton@dmba.isdi.education,2025-02-27
+2,Manuela,Llopis,Hierro,1999-10-23,26,Digital MBA,DMBA,mllopis@dmba.isdi.education,2025-05-21
+3,Jacinto,Chaparro,Calatayud,1998-02-25,27,Digital MBA,DMBA,jchaparro@dmba.isdi.education,2025-04-25
+4,Inmaculada,Bonet,Roca,1995-10-27,30,Digital MBA,DMBA,ibonet@dmba.isdi.education,2025-02-22
+5,Amílcar,Andrés,Bueno,2000-12-17,24,Digital MBA,DMBA,aandres@dmba.isdi.education,2025-02-14
+6,Isaías,Guerrero,Vazquez,2000-11-03,25,Digital MBA,DMBA,iguerrero@dmba.isdi.education,2025-08-05
+7,Eligia,Amor,Flor,1995-07-12,30,Digital MBA,DMBA,eamor@dmba.isdi.education,2025-01-16
+8,Lilia,Rivas,Giménez,1997-08-22,28,Digital MBA,DMBA,lrivas@dmba.isdi.education,2025-04-22
+9,Vidal,Lobo,Agudo,2000-12-05,24,Digital MBA,DMBA,vlobo@dmba.isdi.education,2025-09-16
+10,Martina,Cuervo,Rocamora,1998-12-01,27,Digital MBA,DMBA,mcuervo@dmba.isdi.education,2025-01-14
+11,Noé,Lobo,Cortés,2001-05-16,24,Digital MBA,DMBA,nlobo@dmba.isdi.education,2025-04-12
+12,Ildefonso,Navarro,Calatayud,2001-07-02,24,Digital MBA,DMBA,inavarro@dmba.isdi.education,2025-08-03
+13,Cirino,Pinto,Caballero,1999-02-18,26,Digital MBA,DMBA,cpinto@dmba.isdi.education,2025-08-18
+14,Plinio,Núñez,Lamas,2004-04-01,21,Digital MBA,DMBA,pnunez@dmba.isdi.education,2025-05-23
+15,Noemí,Aroca,Segovia,2003-06-08,22,Digital MBA,DMBA,naroca@dmba.isdi.education,2025-03-23
+16,Brunilda,Casanovas,Pinedo,2001-10-24,24,Digital MBA,DMBA,bcasanovas@dmba.isdi.education,2025-08-05
+17,Cayetano,Marcos,Pardo,2002-06-09,23,Digital MBA,DMBA,cmarcos@dmba.isdi.education,2025-05-23
+18,Crescencia,Fernandez,Baños,1998-11-11,27,Digital MBA,DMBA,cfernandez@dmba.isdi.education,2025-04-21
+19,Artemio,Goñi,Mancebo,2002-03-03,23,Digital MBA,DMBA,agoni@dmba.isdi.education,2025-02-22
+20,Cebrián,Guerrero,Cabrero,2003-02-01,22,Digital MBA,DMBA,cguerrero@dmba.isdi.education,2025-07-14
+21,Ricardo,Lobo,Santana,1995-11-26,30,Digital MBA,DMBA,rlobo@dmba.isdi.education,2025-07-03
+22,Fabiola,Patiño,Cánovas,2000-06-23,25,Digital MBA,DMBA,fpatino@dmba.isdi.education,2025-05-16
+23,Raimundo,Padilla,Gallego,1999-04-28,26,Digital MBA,DMBA,rpadilla@dmba.isdi.education,2025-08-24
+24,Herminia,Lasa,Bellido,2003-09-28,22,Digital MBA,DMBA,hlasa@dmba.isdi.education,2025-03-05
+25,Emelina,Donoso,Hierro,2001-04-26,24,Digital MBA,DMBA,edonoso@dmba.isdi.education,2025-02-10
+26,Fernando,Sevilla,Pino,1999-12-04,25,Digital MBA,DMBA,fsevilla@dmba.isdi.education,2025-05-31
+27,Julián,Gimenez,Morata,2003-03-09,22,Digital MBA,DMBA,jgimenez@dmba.isdi.education,2025-07-05
+28,Pía,Barba,Grande,1999-04-20,26,Digital MBA,DMBA,pbarba@dmba.isdi.education,2025-04-09
+29,Paca,Antón,Moles,2001-12-01,24,Digital MBA,DMBA,panton@dmba.isdi.education,2025-02-05
+30,Salvador,Leal,Batalla,2000-03-22,25,Digital MBA,DMBA,sleal@dmba.isdi.education,2025-04-27
+31,Héctor,Miranda,Garcia,2001-05-04,24,Digital MBA,DMBA,hmiranda@dmba.isdi.education,2025-02-10
+32,Gabriela,Valera,Priego,1995-02-16,30,Digital MBA,DMBA,gvalera@dmba.isdi.education,2025-02-21
+33,Soledad,Segarra,Clavero,1999-12-30,25,Digital MBA,DMBA,ssegarra@dmba.isdi.education,2025-05-23
+34,Juan Manuel,Chaparro,Huerta,2002-09-16,23,Digital MBA,DMBA,jchaparro1@dmba.isdi.education,2025-07-06
+35,Marcela,Jódar,Romero,1997-08-08,28,Digital MBA,DMBA,mjodar@dmba.isdi.education,2025-07-09
+36,Tomasa,Pujol,Paredes,2002-12-23,22,Digital MBA,DMBA,tpujol@dmba.isdi.education,2025-04-18
+37,Isidoro,Chacón,Vergara,1999-11-06,26,Digital MBA,DMBA,ichacon@dmba.isdi.education,2025-05-17
+38,Ana,Bou,Arévalo,2004-05-29,21,Digital MBA,DMBA,abou@dmba.isdi.education,2025-02-06
+39,Rosalinda,Canals,Coronado,2003-08-07,22,Digital MBA,DMBA,rcanals@dmba.isdi.education,2025-03-29
+40,Eulalia,Cuesta,Roca,1999-09-08,26,Digital MBA,DMBA,ecuesta@dmba.isdi.education,2025-05-06
+41,Débora,Bartolomé,Plaza,1997-10-24,28,Digital MBA,DMBA,dbartolome@dmba.isdi.education,2025-08-25
+42,Rico,Solé,Ángel,1999-07-14,26,Digital MBA,DMBA,rsole@dmba.isdi.education,2025-05-19
+43,José,Alberdi,Carbó,2000-08-12,25,Digital MBA,DMBA,jalberdi@dmba.isdi.education,2025-04-23
+44,Isabel,Lasa,Nieto,2001-02-20,24,Digital MBA,DMBA,ilasa@dmba.isdi.education,2025-06-16
+45,Dani,Marin,Royo,2003-03-15,22,Digital MBA,DMBA,dmarin@dmba.isdi.education,2025-04-28
+46,Fausto,Santiago,Acero,1997-12-29,27,Master in Data Analytics,MDA,fsantiago@mda.isdi.education,2025-06-11
+47,Lorenza,Lago,Valle,1997-08-09,28,Master in Data Analytics,MDA,llago@mda.isdi.education,2025-05-18
+48,María Belén,Escalona,Vera,1991-10-29,34,Master in Data Analytics,MDA,mescalona@mda.isdi.education,2025-04-19
+49,Ximena,Camino,Martín,1995-01-10,30,Master in Data Analytics,MDA,xcamino@mda.isdi.education,2025-06-11
+50,Prudencia,Vera,Flor,2001-09-21,24,Master in Data Analytics,MDA,pvera@mda.isdi.education,2025-09-13
+51,Ezequiel,Pereira,Cuéllar,1994-11-07,31,Master in Data Analytics,MDA,epereira@mda.isdi.education,2025-08-23
+52,Calista,Abascal,Morante,1996-12-23,28,Master in Data Analytics,MDA,cabascal@mda.isdi.education,2025-05-16
+53,Amaya,Aliaga,Caparrós,1997-12-29,27,Master in Data Analytics,MDA,aaliaga@mda.isdi.education,2025-05-07
+54,Úrsula,Parejo,Meléndez,1994-01-29,31,Master in Data Analytics,MDA,uparejo@mda.isdi.education,2025-05-15
+55,Jose,Barco,Hernando,1992-08-23,33,Master in Data Analytics,MDA,jbarco@mda.isdi.education,2025-08-08
+56,Selena,Bermúdez,Boada,1992-12-28,32,Master in Data Analytics,MDA,sbermudez@mda.isdi.education,2025-07-24
+57,Lupita,Torre,Bayón,1998-11-16,27,Master in Data Analytics,MDA,ltorre@mda.isdi.education,2025-04-23
+58,Martirio,Casas,Castellanos,1996-09-15,29,Master in Data Analytics,MDA,mcasas@mda.isdi.education,2025-09-18
+59,Georgina,Talavera,Dalmau,1994-12-18,30,Master in Data Analytics,MDA,gtalavera@mda.isdi.education,2025-02-16
+60,Juan Manuel,Álamo,Rocha,1992-02-01,33,Master in Data Analytics,MDA,jalamo@mda.isdi.education,2025-02-26
+61,Héctor,Font,Mesa,1997-04-28,28,Master in Data Analytics,MDA,hfont@mda.isdi.education,2025-03-23
+62,Sabas,Perea,Ríos,1997-01-13,28,Master in Data Analytics,MDA,sperea@mda.isdi.education,2025-08-05
+63,Trinidad,Villar,Sanmiguel,2000-02-20,25,Master in Data Analytics,MDA,tvillar@mda.isdi.education,2025-02-02
+64,Dionisio,Huguet,Gomila,2000-02-27,25,Master in Data Analytics,MDA,dhuguet@mda.isdi.education,2025-07-15
+65,Bernardo,Neira,Almazán,1993-06-04,32,Master in Data Analytics,MDA,bneira@mda.isdi.education,2025-08-28
+66,Dionisia,Grau,Giménez,1991-06-06,34,Master in Data Analytics,MDA,dgrau@mda.isdi.education,2025-05-09
+67,Adrián,Belda,Barral,1996-06-16,29,Master in Data Analytics,MDA,abelda@mda.isdi.education,2025-01-06
+68,Jenaro,Bauzà,Angulo,1992-11-15,33,Master in Data Analytics,MDA,jbauzà@mda.isdi.education,2025-02-28
+69,Rosalina,Murillo,Belda,1995-02-15,30,Master in Data Analytics,MDA,rmurillo@mda.isdi.education,2025-05-17
+70,Aroa,Gárate,Lopez,1998-08-03,27,Master in Data Analytics,MDA,agarate@mda.isdi.education,2025-06-24
+71,Haydée,Torralba,Gargallo,1994-04-29,31,Master in Data Analytics,MDA,htorralba@mda.isdi.education,2025-05-31
+72,Calista,Catalán,Suárez,1990-08-30,35,Master in Data Analytics,MDA,ccatalan@mda.isdi.education,2025-03-22
+73,Jose Carlos,Suárez,Ramírez,1996-03-11,29,Master in Data Analytics,MDA,jsuarez@mda.isdi.education,2025-01-02
+74,Goyo,Busquets,Caballero,1990-04-30,35,Master in Data Analytics,MDA,gbusquets@mda.isdi.education,2025-09-14
+75,Genoveva,Rosa,Pablo,2001-09-04,24,Master in Data Analytics,MDA,grosa@mda.isdi.education,2025-09-17
+76,Teo,Reig,Solera,1992-09-15,33,Master in Data Analytics,MDA,treig@mda.isdi.education,2025-06-02
+77,Rosario,Balaguer,Cabello,1996-01-09,29,Master in Data Analytics,MDA,rbalaguer@mda.isdi.education,2025-09-17
+78,Benjamín,Quevedo,Nicolau,1997-04-30,28,Master in Data Analytics,MDA,bquevedo@mda.isdi.education,2025-04-12
+79,Nereida,Canales,Ibarra,1995-04-29,30,Master in Data Analytics,MDA,ncanales@mda.isdi.education,2025-07-11
+80,Gregorio,Falcón,Sanabria,2001-08-26,24,Master in Data Analytics,MDA,gfalcon@mda.isdi.education,2025-09-29
+81,Enrique,Roca,Español,1996-03-14,29,Master in Data Analytics,MDA,eroca@mda.isdi.education,2025-06-15
+82,León,Sevillano,Iborra,1994-11-13,31,Master in Data Analytics,MDA,lsevillano@mda.isdi.education,2025-01-10
+83,Sandra,Benet,Salazar,1990-06-02,35,Master in Data Analytics,MDA,sbenet@mda.isdi.education,2025-07-05
+84,Nuria,Cabañas,Ayuso,1997-09-04,28,Master in Data Analytics,MDA,ncabanas@mda.isdi.education,2025-05-03
+85,Florinda,Alcolea,Bueno,1998-05-04,27,Master in Data Analytics,MDA,falcolea@mda.isdi.education,2025-05-04
+86,Ángeles,Guzmán,Delgado,1997-12-24,27,Master in Data Analytics,MDA,aguzman@mda.isdi.education,2025-02-10
+87,Santos,Torralba,Teruel,1992-05-07,33,Master in Data Analytics,MDA,storralba@mda.isdi.education,2025-09-06
+88,Ignacio,Quero,Barral,1994-05-19,31,Master in Data Analytics,MDA,iquero@mda.isdi.education,2025-09-30
+89,Fidel,Pinilla,Abril,1997-06-17,28,Master in Data Analytics,MDA,fpinilla@mda.isdi.education,2025-03-07
+90,Rosario,Lara,Sanz,1994-07-24,31,Master in Data Analytics,MDA,rlara@mda.isdi.education,2025-09-01
+91,Lucho,Rocha,Torrecilla,1992-10-25,33,Master in Digital Marketing,MDM,lrocha@mdm.isdi.education,2025-03-26
+92,Fabián,Falcó,Martin,1988-12-06,36,Master in Digital Marketing,MDM,ffalco@mdm.isdi.education,2025-09-28
+93,Isaac,Barragán,Barrera,1996-02-02,29,Master in Digital Marketing,MDM,ibarragan@mdm.isdi.education,2025-08-05
+94,Mariana,Mir,Barceló,1994-01-15,31,Master in Digital Marketing,MDM,mmir@mdm.isdi.education,2025-04-13
+95,Aureliano,Tapia,Valverde,1994-06-09,31,Master in Digital Marketing,MDM,atapia@mdm.isdi.education,2025-07-24
+96,Zaira,Criado,Barberá,1999-03-23,26,Master in Digital Marketing,MDM,zcriado@mdm.isdi.education,2025-07-11
+97,Apolonia,Bernat,Estevez,1991-11-12,34,Master in Digital Marketing,MDM,abernat@mdm.isdi.education,2025-09-22
+98,Bruno,Bayo,Gutierrez,1992-01-09,33,Master in Digital Marketing,MDM,bbayo@mdm.isdi.education,2025-03-03
+99,Sancho,Carretero,Hoz,1992-10-04,33,Master in Digital Marketing,MDM,scarretero@mdm.isdi.education,2025-04-26
+100,Cristina,Ariño,Bilbao,1993-06-17,32,Master in Digital Marketing,MDM,carino@mdm.isdi.education,2025-06-23
+101,Simón,Yáñez,Molina,1998-02-13,27,Master in Digital Marketing,MDM,syanez@mdm.isdi.education,2025-04-28
+102,Juan Carlos,Fuente,Miralles,1994-12-10,30,Master in Digital Marketing,MDM,jfuente@mdm.isdi.education,2025-04-23
+103,Jorge,Lara,Priego,1993-10-24,32,Master in Digital Marketing,MDM,jlara@mdm.isdi.education,2025-02-06
+104,Eleuterio,Marín,Sebastián,1996-07-11,29,Master in Digital Marketing,MDM,emarin@mdm.isdi.education,2025-01-31
+105,Maximiano,Belmonte,Agustí,1993-05-26,32,Master in Digital Marketing,MDM,mbelmonte@mdm.isdi.education,2025-02-04
+106,Álvaro,Cabo,Beltrán,1990-11-12,35,Master in Digital Marketing,MDM,acabo@mdm.isdi.education,2025-06-19
+107,Brígida,Garcés,Velasco,1984-12-29,40,Master in Digital Marketing,MDM,bgarces@mdm.isdi.education,2025-09-21
+108,Juan Manuel,Cazorla,Oller,1992-01-26,33,Master in Digital Marketing,MDM,jcazorla@mdm.isdi.education,2025-05-23
+109,Socorro,Bayona,Hidalgo,1992-05-04,33,Master in Digital Marketing,MDM,sbayona@mdm.isdi.education,2025-09-06
+110,Rafael,López,Cruz,1993-01-11,32,Master in Digital Marketing,MDM,rlopez@mdm.isdi.education,2025-03-09
+111,Urbano,Mate,Ángel,2000-03-24,25,Master in Digital Marketing,MDM,umate@mdm.isdi.education,2025-08-31
+112,Adán,Marí,Calleja,1992-11-17,33,Master in Digital Marketing,MDM,amari@mdm.isdi.education,2025-08-31
+113,Selena,Cañizares,Lamas,1992-10-06,33,Master in Digital Marketing,MDM,scanizares@mdm.isdi.education,2025-04-08
+114,David,Campo,Cortés,1983-07-28,42,Master in Digital Marketing,MDM,dcampo@mdm.isdi.education,2025-02-19
+115,Lalo,Luján,Galvez,1994-02-15,31,Master in Digital Marketing,MDM,llujan@mdm.isdi.education,2025-08-09
+116,Liliana,Novoa,Frutos,1991-09-22,34,Master in Digital Marketing,MDM,lnovoa@mdm.isdi.education,2025-08-05
+117,Jacinta,Laguna,Vega,1993-02-23,32,Master in Digital Marketing,MDM,jlaguna@mdm.isdi.education,2025-08-28
+118,Amaya,Iglesias,Azcona,1997-03-07,28,Master in Digital Marketing,MDM,aiglesias@mdm.isdi.education,2025-02-20
+119,Cirino,Roda,Lloret,1987-12-14,37,Master in Digital Marketing,MDM,croda@mdm.isdi.education,2025-07-26
+120,Arsenio,Acevedo,Múgica,1989-11-26,36,Master in Digital Marketing,MDM,aacevedo@mdm.isdi.education,2025-02-25
+121,María Manuela,Castrillo,Juárez,1989-08-15,36,Master in Digital Marketing,MDM,mcastrillo@mdm.isdi.education,2025-04-09
+122,Felix,Sala,Roma,1996-05-02,29,Master in Digital Marketing,MDM,fsala@mdm.isdi.education,2025-08-18
+123,Chelo,Agustí,Caparrós,1987-01-08,38,Master in Digital Marketing,MDM,cagusti@mdm.isdi.education,2025-08-05
+124,Carlos,Company,Araujo,1998-04-17,27,Master in Digital Marketing,MDM,ccompany@mdm.isdi.education,2025-05-23
+125,Perlita,Peiró,Colomer,1990-09-26,35,Master in Digital Marketing,MDM,ppeiro@mdm.isdi.education,2025-05-08
+126,Tito,Castell,Arnaiz,1983-10-13,42,Master in Digital Marketing,MDM,tcastell@mdm.isdi.education,2025-08-15
+127,Mario,Pastor,Ariño,1997-03-01,28,Master in Digital Marketing,MDM,mpastor@mdm.isdi.education,2025-02-20
+128,Trini,Pallarès,Gallo,1994-10-07,31,Master in Digital Marketing,MDM,tpallarès@mdm.isdi.education,2025-01-08
+129,Isabel,Iborra,Calderon,1992-03-01,33,Master in Digital Marketing,MDM,iiborra@mdm.isdi.education,2025-05-02
+130,Paulino,Ramos,Cortes,1994-09-06,31,Master in Digital Marketing,MDM,pramos@mdm.isdi.education,2025-07-28
+131,Ángela,Guzmán,Cámara,1999-04-24,26,Master in Digital Marketing,MDM,aguzman@mdm.isdi.education,2025-09-04
+132,Nereida,Elorza,Revilla,1992-06-16,33,Master in Digital Marketing,MDM,nelorza@mdm.isdi.education,2025-07-25
+133,Amador,Escobar,Márquez,1996-10-05,29,Master in Digital Marketing,MDM,aescobar@mdm.isdi.education,2025-03-26
+134,Micaela,Requena,Hurtado,1991-01-27,34,Master in Digital Marketing,MDM,mrequena@mdm.isdi.education,2025-01-02
+135,Juanito,Cuervo,Campoy,1996-08-27,29,Master in Digital Marketing,MDM,jcuervo@mdm.isdi.education,2025-05-16
+136,Roberto,Arias,Sosa,1981-04-30,44,Master in International Business,MIB,rarias@mib.isdi.education,2025-05-27
+137,Iván,Flores,Seguí,1992-12-10,32,Master in International Business,MIB,iflores@mib.isdi.education,2025-09-07
+138,Pancho,Mayoral,Goñi,1990-04-06,35,Master in International Business,MIB,pmayoral@mib.isdi.education,2025-04-08
+139,Jacinto,Alvarez,Ferrando,1984-10-14,41,Master in International Business,MIB,jalvarez@mib.isdi.education,2025-04-22
+140,Sabas,Moya,Lopez,1994-09-01,31,Master in International Business,MIB,smoya@mib.isdi.education,2025-02-01
+141,Rosaura,Baños,Lorenzo,1987-09-27,38,Master in International Business,MIB,rbanos@mib.isdi.education,2025-01-30
+142,Pascual,Vergara,Pulido,1981-12-22,43,Master in International Business,MIB,pvergara@mib.isdi.education,2025-09-02
+143,Iris,Muñoz,Amorós,1997-03-04,28,Master in International Business,MIB,imunoz@mib.isdi.education,2025-09-29
+144,David,Julián,Escalona,1987-09-26,38,Master in International Business,MIB,djulian@mib.isdi.education,2025-01-30
+145,Custodia,Lara,Arenas,1987-11-07,38,Master in International Business,MIB,clara@mib.isdi.education,2025-02-11
+146,César,Rovira,Ojeda,1984-10-16,41,Master in International Business,MIB,crovira@mib.isdi.education,2025-02-05
+147,Luisina,Mir,Rubio,1995-06-14,30,Master in International Business,MIB,lmir@mib.isdi.education,2025-02-04
+148,Eloísa,Vidal,Carlos,1995-12-24,29,Master in International Business,MIB,evidal@mib.isdi.education,2025-05-01
+149,Rogelio,Falcón,Iñiguez,1986-05-24,39,Master in International Business,MIB,rfalcon@mib.isdi.education,2025-03-03
+150,Arsenio,Rubio,Abellán,1987-10-02,38,Master in International Business,MIB,arubio@mib.isdi.education,2025-05-07
+151,Aurora,Figueras,Pascual,1987-12-30,37,Master in International Business,MIB,afigueras@mib.isdi.education,2025-01-21
+152,Tomás,Becerra,Murillo,1987-07-29,38,Master in International Business,MIB,tbecerra@mib.isdi.education,2025-02-11
+153,Estrella,Mir,Casanovas,1992-06-03,33,Master in International Business,MIB,emir@mib.isdi.education,2025-09-25
+154,Lola,Mas,Vendrell,1987-09-20,38,Master in International Business,MIB,lmas@mib.isdi.education,2025-05-14
+155,Martin,Real,Morera,1987-04-05,38,Master in International Business,MIB,mreal@mib.isdi.education,2025-06-10
+156,Samuel,Marqués,Castejón,1992-05-04,33,Master in International Business,MIB,smarques@mib.isdi.education,2025-05-16
+157,Gregorio,Rivero,Pinilla,1979-09-01,46,Master in International Business,MIB,grivero@mib.isdi.education,2025-03-09
+158,Inés,Dávila,Mascaró,1987-01-04,38,Master in International Business,MIB,idavila@mib.isdi.education,2025-06-03
+159,Santiago,Abad,Mateu,1995-01-12,30,Master in International Business,MIB,sabad@mib.isdi.education,2025-06-11
+160,Luciano,Gallo,Ropero,1985-04-04,40,Master in International Business,MIB,lgallo@mib.isdi.education,2025-01-05
+161,Mireia,Montserrat,Sola,1993-12-12,31,Master in International Business,MIB,mmontserrat@mib.isdi.education,2025-02-21
+162,Vasco,Salamanca,García,1984-08-09,41,Master in International Business,MIB,vsalamanca@mib.isdi.education,2025-04-20
+163,Ariadna,Sáenz,Doménech,1983-05-11,42,Master in International Business,MIB,asaenz@mib.isdi.education,2025-05-16
+164,Genoveva,Blazquez,Luz,1992-09-20,33,Master in International Business,MIB,gblazquez@mib.isdi.education,2025-06-28
+165,Aránzazu,Naranjo,Bueno,1983-09-20,42,Master in International Business,MIB,anaranjo@mib.isdi.education,2025-05-06
+166,Olivia,Gutierrez,Menéndez,1986-11-22,39,Master in International Business,MIB,ogutierrez@mib.isdi.education,2025-05-26
+167,Jafet,Flor,Colom,1984-07-19,41,Master in International Business,MIB,jflor@mib.isdi.education,2025-08-13
+168,Amador,Arteaga,Hierro,1979-09-21,46,Master in International Business,MIB,aarteaga@mib.isdi.education,2025-06-04
+169,Aitana,Beltran,Sarabia,1990-07-09,35,Master in International Business,MIB,abeltran@mib.isdi.education,2025-09-28
+170,Severino,Ferreras,Plana,1992-03-19,33,Master in International Business,MIB,sferreras@mib.isdi.education,2025-06-03
+171,Ana Belén,Pulido,Hervás,1993-10-23,32,Master in International Business,MIB,apulido@mib.isdi.education,2025-02-23
+172,Eusebio,Adán,Campillo,1992-09-12,33,Master in International Business,MIB,eadan@mib.isdi.education,2025-05-16
+173,Melania,Rodríguez,Gilabert,1988-12-25,36,Master in International Business,MIB,mrodriguez@mib.isdi.education,2025-02-24
+174,Gabriel,Villaverde,Sobrino,1987-07-05,38,Master in International Business,MIB,gvillaverde@mib.isdi.education,2025-03-21
+175,Aureliano,Ibañez,Carrión,1987-06-09,38,Master in International Business,MIB,aibanez@mib.isdi.education,2025-05-25
+176,Yago,Cañellas,Sobrino,1985-02-24,40,Master in International Business,MIB,ycanellas@mib.isdi.education,2025-04-18
+177,Guadalupe,Molins,Salas,1988-11-07,37,Master in International Business,MIB,gmolins@mib.isdi.education,2025-04-15
+178,Emperatriz,Vargas,Roldan,1982-02-19,43,Master in International Business,MIB,evargas@mib.isdi.education,2025-05-16
+179,Paulina,Salmerón,Cuenca,1990-06-19,35,Master in International Business,MIB,psalmeron@mib.isdi.education,2025-09-08
+180,Mar,Taboada,Sandoval,1977-10-17,48,Master in International Business,MIB,mtaboada@mib.isdi.education,2025-01-27
+181,Juan Antonio,Huertas,Lluch,1977-02-17,48,Digital Business Executive Program,DIBEX,jhuertas@dibex.isdi.education,2025-08-05
+182,María Dolores,Vázquez,Tormo,1985-07-16,40,Digital Business Executive Program,DIBEX,mvazquez@dibex.isdi.education,2025-01-23
+183,Eugenia,Haro,Llobet,1986-05-01,39,Digital Business Executive Program,DIBEX,eharo@dibex.isdi.education,2025-06-20
+184,Valerio,Berenguer,Macias,1977-12-21,47,Digital Business Executive Program,DIBEX,vberenguer@dibex.isdi.education,2025-05-15
+185,Joel,Llabrés,Narváez,1981-11-23,44,Digital Business Executive Program,DIBEX,jllabres@dibex.isdi.education,2025-08-15
+186,Miguel,Berrocal,Chacón,1977-04-16,48,Digital Business Executive Program,DIBEX,mberrocal@dibex.isdi.education,2025-08-07
+187,Eutropio,Guardia,Piñol,1978-08-17,47,Digital Business Executive Program,DIBEX,eguardia@dibex.isdi.education,2025-01-05
+188,Joaquina,Corominas,Gargallo,1980-12-31,44,Digital Business Executive Program,DIBEX,jcorominas@dibex.isdi.education,2025-02-08
+189,Bernardo,Ribera,Ramón,1986-01-23,39,Digital Business Executive Program,DIBEX,bribera@dibex.isdi.education,2025-03-18
+190,Natalio,Solano,Ricart,1989-07-14,36,Digital Business Executive Program,DIBEX,nsolano@dibex.isdi.education,2025-01-19
+191,Bernabé,Gabaldón,Rivera,1983-06-01,42,Digital Business Executive Program,DIBEX,bgabaldon@dibex.isdi.education,2025-03-17
+192,Roque,Aller,Pintor,1976-05-03,49,Digital Business Executive Program,DIBEX,raller@dibex.isdi.education,2025-03-07
+193,Albina,Aguado,Ortiz,1979-04-29,46,Digital Business Executive Program,DIBEX,aaguado@dibex.isdi.education,2025-06-07
+194,Marc,Porta,Rius,1987-10-19,38,Digital Business Executive Program,DIBEX,mporta@dibex.isdi.education,2025-01-21
+195,Bárbara,Giménez,Torrents,1979-12-29,45,Digital Business Executive Program,DIBEX,bgimenez@dibex.isdi.education,2025-04-18
+196,Isidoro,Llamas,Ruano,1979-04-13,46,Digital Business Executive Program,DIBEX,illamas@dibex.isdi.education,2025-05-08
+197,Amalia,Andres,Porcel,1986-03-27,39,Digital Business Executive Program,DIBEX,aandres@dibex.isdi.education,2025-02-22
+198,Nicodemo,Quiroga,Dalmau,1980-02-04,45,Digital Business Executive Program,DIBEX,nquiroga@dibex.isdi.education,2025-07-28
+199,Priscila,Solsona,Castell,1980-12-28,44,Digital Business Executive Program,DIBEX,psolsona@dibex.isdi.education,2025-03-21
+200,Esther,Amores,Prada,1987-01-21,38,Digital Business Executive Program,DIBEX,eamores@dibex.isdi.education,2025-03-25
+201,Dora,Amores,Blanes,1978-09-21,47,Digital Business Executive Program,DIBEX,damores@dibex.isdi.education,2025-07-31
+202,Fernanda,Romero,Cerdá,1977-05-24,48,Digital Business Executive Program,DIBEX,fromero@dibex.isdi.education,2025-04-02
+203,Roxana,Serrano,Espada,1974-12-15,50,Digital Business Executive Program,DIBEX,rserrano@dibex.isdi.education,2025-07-30
+204,Aureliano,Juan,Pinilla,1975-08-03,50,Digital Business Executive Program,DIBEX,ajuan@dibex.isdi.education,2025-05-08
+205,Nacio,Galán,Sanz,1988-05-21,37,Digital Business Executive Program,DIBEX,ngalan@dibex.isdi.education,2025-03-23
+206,Nacho,Nebot,Pinilla,1986-07-31,39,Digital Business Executive Program,DIBEX,nnebot@dibex.isdi.education,2025-02-25
+207,Leopoldo,Robles,Iniesta,1978-02-23,47,Digital Business Executive Program,DIBEX,lrobles@dibex.isdi.education,2025-01-20
+208,Perlita,Bilbao,Sosa,1978-04-11,47,Digital Business Executive Program,DIBEX,pbilbao@dibex.isdi.education,2025-04-24
+209,Alejo,Azorin,Olmo,1977-11-22,48,Digital Business Executive Program,DIBEX,aazorin@dibex.isdi.education,2025-08-24
+210,Jacobo,Bayona,Arjona,1968-12-09,57,Digital Business Executive Program,DIBEX,jbayona@dibex.isdi.education,2025-06-06
+211,Marisela,Anguita,Huertas,1977-08-15,48,Digital Business Executive Program,DIBEX,manguita@dibex.isdi.education,2025-04-25
+212,Heraclio,Almagro,Corominas,1974-03-27,51,Digital Business Executive Program,DIBEX,halmagro@dibex.isdi.education,2025-04-09
+213,Jorge,Cases,Sáenz,1975-10-04,50,Digital Business Executive Program,DIBEX,jcases@dibex.isdi.education,2025-06-18
+214,Haydée,Carbó,Gibert,1977-04-02,48,Digital Business Executive Program,DIBEX,hcarbo@dibex.isdi.education,2025-02-05
+215,Adela,Jaén,Peinado,1982-07-25,43,Digital Business Executive Program,DIBEX,ajaen@dibex.isdi.education,2025-06-29
+216,Florencio,Carbó,Céspedes,1977-03-03,48,Digital Business Executive Program,DIBEX,fcarbo@dibex.isdi.education,2025-09-18
+217,María,Campoy,Amigó,1985-04-01,40,Digital Business Executive Program,DIBEX,mcampoy@dibex.isdi.education,2025-06-19
+218,Úrsula,Mesa,Perez,1981-10-13,44,Digital Business Executive Program,DIBEX,umesa@dibex.isdi.education,2025-03-01
+219,Régulo,Fiol,Benitez,1983-06-23,42,Digital Business Executive Program,DIBEX,rfiol@dibex.isdi.education,2025-04-02
+220,Dora,Herrero,Cal,1980-10-21,45,Digital Business Executive Program,DIBEX,dherrero@dibex.isdi.education,2025-05-16
+221,Josefina,Mata,Carrillo,1968-07-02,57,Digital Business Executive Program,DIBEX,jmata@dibex.isdi.education,2025-02-25
+222,Natividad,Armengol,Olivera,1991-04-09,34,Digital Business Executive Program,DIBEX,narmengol@dibex.isdi.education,2025-08-11
+223,Berta,Romero,Pellicer,1977-02-25,48,Digital Business Executive Program,DIBEX,bromero@dibex.isdi.education,2025-06-10
+224,Bruno,Velasco,Nogueira,1989-12-01,36,Digital Business Executive Program,DIBEX,bvelasco@dibex.isdi.education,2025-09-19
+225,Albano,Rivera,Trillo,1983-03-14,42,Digital Business Executive Program,DIBEX,arivera@dibex.isdi.education,2025-07-17
+226,Curro,Rosselló,Paredes,1975-04-07,50,Data Analytics Executive Program,DAEX,crossello@daex.isdi.education,2025-04-08
+227,Fabiola,Segura,Coronado,1980-06-11,45,Data Analytics Executive Program,DAEX,fsegura@daex.isdi.education,2025-01-23
+228,Trinidad,Echeverría,Vélez,1986-12-23,38,Data Analytics Executive Program,DAEX,techeverria@daex.isdi.education,2025-01-01
+229,Florina,León,Tomás,1985-02-06,40,Data Analytics Executive Program,DAEX,fleon@daex.isdi.education,2025-04-11
+230,Adela,Ruano,Ledesma,1977-03-20,48,Data Analytics Executive Program,DAEX,aruano@daex.isdi.education,2025-08-09
+231,Mohamed,Higueras,Bolaños,1984-07-21,41,Data Analytics Executive Program,DAEX,mhigueras@daex.isdi.education,2025-06-19
+232,León,Sanmartín,Hervás,1980-02-16,45,Data Analytics Executive Program,DAEX,lsanmartin@daex.isdi.education,2025-06-10
+233,Maricela,Sobrino,Pinilla,1981-02-13,44,Data Analytics Executive Program,DAEX,msobrino@daex.isdi.education,2025-03-05
+234,Nicodemo,Andrade,Urrutia,1984-06-11,41,Data Analytics Executive Program,DAEX,nandrade@daex.isdi.education,2025-09-17
+235,Renata,Morcillo,Espada,1969-02-03,56,Data Analytics Executive Program,DAEX,rmorcillo@daex.isdi.education,2025-07-29
+236,Amarilis,Garay,Pacheco,1977-06-01,48,Data Analytics Executive Program,DAEX,agaray@daex.isdi.education,2025-07-26
+237,Nayara,Jordán,Niño,1991-05-30,34,Data Analytics Executive Program,DAEX,njordan@daex.isdi.education,2025-06-01
+238,Lino,Llorente,Agustín,1980-03-11,45,Data Analytics Executive Program,DAEX,lllorente@daex.isdi.education,2025-03-07
+239,Asunción,Feijoo,Boada,1984-05-07,41,Data Analytics Executive Program,DAEX,afeijoo@daex.isdi.education,2025-08-04
+240,Jose Antonio,Ramos,Torres,1976-09-08,49,Data Analytics Executive Program,DAEX,jramos@daex.isdi.education,2025-07-14
+241,Catalina,Hernandez,Tamayo,1985-09-29,40,Data Analytics Executive Program,DAEX,chernandez@daex.isdi.education,2025-03-31
+242,Flavia,Tudela,Samper,1981-12-08,43,Data Analytics Executive Program,DAEX,ftudela@daex.isdi.education,2025-06-04
+243,Mónica,Alemany,Buendía,1978-03-27,47,Data Analytics Executive Program,DAEX,malemany@daex.isdi.education,2025-01-01
+244,Macario,Giralt,Quiroga,1976-02-09,49,Data Analytics Executive Program,DAEX,mgiralt@daex.isdi.education,2025-05-27
+245,Jesusa,Hervia,Medina,1987-05-02,38,Data Analytics Executive Program,DAEX,jhervia@daex.isdi.education,2025-08-09
+246,Gracia,Peinado,Sáenz,1983-02-03,42,Data Analytics Executive Program,DAEX,gpeinado@daex.isdi.education,2025-06-14
+247,Carolina,Núñez,Roig,1983-09-15,42,Data Analytics Executive Program,DAEX,cnunez@daex.isdi.education,2025-08-15
+248,Marcia,Muro,Ortiz,1984-08-26,41,Data Analytics Executive Program,DAEX,mmuro@daex.isdi.education,2025-04-20
+249,Julia,Santiago,Lillo,1971-06-15,54,Data Analytics Executive Program,DAEX,jsantiago@daex.isdi.education,2025-08-31
+250,Mariano,Iglesias,Gual,1978-06-14,47,Data Analytics Executive Program,DAEX,miglesias@daex.isdi.education,2025-02-13
+251,Dionisio,Fernández,Moles,1987-10-09,38,Data Analytics Executive Program,DAEX,dfernandez@daex.isdi.education,2025-09-21
+252,Dimas,Esteve,Feliu,1976-04-29,49,Data Analytics Executive Program,DAEX,desteve@daex.isdi.education,2025-06-21
+253,Inocencio,Tomé,Lloret,1968-11-27,57,Data Analytics Executive Program,DAEX,itome@daex.isdi.education,2025-05-01
+254,Lourdes,Zamorano,Luna,1975-09-17,50,Data Analytics Executive Program,DAEX,lzamorano@daex.isdi.education,2025-06-08
+255,Cornelio,Ferrera,Marti,1989-02-09,36,Data Analytics Executive Program,DAEX,cferrera@daex.isdi.education,2025-04-12
+256,Javi,Paniagua,Escobar,1983-04-24,42,Data Analytics Executive Program,DAEX,jpaniagua@daex.isdi.education,2025-01-13
+257,Marciano,Alcalá,Castañeda,1973-07-17,52,Data Analytics Executive Program,DAEX,malcala@daex.isdi.education,2025-05-06
+258,Leocadio,Arroyo,Ballester,1984-12-30,40,Data Analytics Executive Program,DAEX,larroyo@daex.isdi.education,2025-02-07
+259,Carolina,Manzano,Cases,1978-08-23,47,Data Analytics Executive Program,DAEX,cmanzano@daex.isdi.education,2025-08-01
+260,Felicia,Tudela,Calderon,1977-01-24,48,Data Analytics Executive Program,DAEX,ftudela1@daex.isdi.education,2025-04-10
+261,Salud,Alberola,Luís,1986-07-06,39,Data Analytics Executive Program,DAEX,salberola@daex.isdi.education,2025-07-16
+262,Adora,Tejero,Saez,1981-06-18,44,Data Analytics Executive Program,DAEX,atejero@daex.isdi.education,2025-07-24
+263,Noé,Espinosa,Aznar,1990-10-10,35,Data Analytics Executive Program,DAEX,nespinosa@daex.isdi.education,2025-03-17
+264,José Antonio,Tejedor,Carbonell,1986-12-28,38,Data Analytics Executive Program,DAEX,jtejedor@daex.isdi.education,2025-01-03
+265,Paca,Bas,Pérez,1981-12-24,43,Data Analytics Executive Program,DAEX,pbas@daex.isdi.education,2025-08-06
+266,Amparo,Benavent,Baeza,1987-08-10,38,Data Analytics Executive Program,DAEX,abenavent@daex.isdi.education,2025-04-01
+267,Evaristo,Company,Mateu,1972-06-11,53,Data Analytics Executive Program,DAEX,ecompany@daex.isdi.education,2025-09-23
+268,Che,Hurtado,Carrasco,1988-12-14,36,Data Analytics Executive Program,DAEX,churtado@daex.isdi.education,2025-01-26
+269,Celestina,Rico,Gonzalez,1983-08-23,42,Data Analytics Executive Program,DAEX,crico@daex.isdi.education,2025-05-08
+270,Maura,Yáñez,Pintor,1979-11-23,46,Data Analytics Executive Program,DAEX,myanez@daex.isdi.education,2025-08-22
+271,Virgilio,Salas,Martinez,1972-09-15,53,Marketing Analytics Executive Program,MAEX,vsalas@maex.isdi.education,2025-08-26
+272,Rosalina,Romeu,Mayoral,1989-04-08,36,Marketing Analytics Executive Program,MAEX,rromeu@maex.isdi.education,2025-09-29
+273,Cloe,Barrena,Cabezas,1974-10-31,51,Marketing Analytics Executive Program,MAEX,cbarrena@maex.isdi.education,2025-06-12
+274,María Carmen,Galiano,Galván,1981-01-02,44,Marketing Analytics Executive Program,MAEX,mgaliano@maex.isdi.education,2025-09-16
+275,Juan Luis,Bertrán,Crespo,1986-06-08,39,Marketing Analytics Executive Program,MAEX,jbertran@maex.isdi.education,2025-08-17
+276,Jose,Durán,Benavides,1978-02-15,47,Marketing Analytics Executive Program,MAEX,jduran@maex.isdi.education,2025-09-01
+277,Faustino,Acedo,Real,1979-12-24,45,Marketing Analytics Executive Program,MAEX,facedo@maex.isdi.education,2025-05-13
+278,Virgilio,Soriano,Manuel,1984-02-01,41,Marketing Analytics Executive Program,MAEX,vsoriano@maex.isdi.education,2025-05-22
+279,Anacleto,Guardiola,Maldonado,1980-10-14,45,Marketing Analytics Executive Program,MAEX,aguardiola@maex.isdi.education,2025-09-06
+280,Lara,Luna,Santiago,1983-06-09,42,Marketing Analytics Executive Program,MAEX,lluna@maex.isdi.education,2025-05-03
+281,Calisto,Guillen,Lamas,1980-03-15,45,Marketing Analytics Executive Program,MAEX,cguillen@maex.isdi.education,2025-08-14
+282,Mirta,Figuerola,Rodríguez,1976-11-28,49,Marketing Analytics Executive Program,MAEX,mfiguerola@maex.isdi.education,2025-05-27
+283,Darío,Gomila,Company,1972-01-21,53,Marketing Analytics Executive Program,MAEX,dgomila@maex.isdi.education,2025-05-20
+284,Violeta,Larrañaga,Cisneros,1987-09-18,38,Marketing Analytics Executive Program,MAEX,vlarranaga@maex.isdi.education,2025-06-13
+285,Calixto,Barreda,Daza,1969-06-22,56,Marketing Analytics Executive Program,MAEX,cbarreda@maex.isdi.education,2025-02-11
+286,Mónica,Meléndez,Malo,1990-08-17,35,Marketing Analytics Executive Program,MAEX,mmelendez@maex.isdi.education,2025-03-19
+287,Valentín,Casanova,Solís,1981-08-07,44,Marketing Analytics Executive Program,MAEX,vcasanova@maex.isdi.education,2025-07-16
+288,Jennifer,Mateu,Quevedo,1978-03-07,47,Marketing Analytics Executive Program,MAEX,jmateu@maex.isdi.education,2025-03-20
+289,Lalo,Vall,Uribe,1979-03-13,46,Marketing Analytics Executive Program,MAEX,lvall@maex.isdi.education,2025-02-02
+290,Urbano,Bernat,Ariño,1984-06-12,41,Marketing Analytics Executive Program,MAEX,ubernat@maex.isdi.education,2025-07-28
+291,Tamara,Rosales,Mora,1982-01-18,43,Marketing Analytics Executive Program,MAEX,trosales@maex.isdi.education,2025-08-27
+292,Elisabet,Ibáñez,Amigó,1983-09-25,42,Marketing Analytics Executive Program,MAEX,eibanez@maex.isdi.education,2025-02-01
+293,Ciriaco,Granados,Almansa,1983-12-21,41,Marketing Analytics Executive Program,MAEX,cgranados@maex.isdi.education,2025-08-04
+294,María Del Carmen,Leon,Arjona,1976-04-26,49,Marketing Analytics Executive Program,MAEX,mleon@maex.isdi.education,2025-01-11
+295,María Carmen,Díez,Sosa,1979-04-15,46,Marketing Analytics Executive Program,MAEX,mdiez@maex.isdi.education,2025-07-14
+296,Aurelia,Salamanca,Lobo,1984-12-02,41,Marketing Analytics Executive Program,MAEX,asalamanca@maex.isdi.education,2025-01-04
+297,Gerardo,Ruano,Téllez,1975-12-29,49,Marketing Analytics Executive Program,MAEX,gruano@maex.isdi.education,2025-06-02
+298,Ciriaco,Soriano,Oliveras,1979-04-20,46,Marketing Analytics Executive Program,MAEX,csoriano@maex.isdi.education,2025-08-03
+299,Sebastian,Mínguez,Montesinos,1976-09-23,49,Marketing Analytics Executive Program,MAEX,sminguez@maex.isdi.education,2025-04-23
+300,Herminia,Calvo,Cuevas,1977-08-31,48,Marketing Analytics Executive Program,MAEX,hcalvo@maex.isdi.education,2025-04-23
+301,Narciso,Requena,Valbuena,1985-05-19,40,Marketing Analytics Executive Program,MAEX,nrequena@maex.isdi.education,2025-08-12
+302,Luis,Pérez,Arco,1984-03-14,41,Marketing Analytics Executive Program,MAEX,lperez@maex.isdi.education,2025-01-15
+303,Wálter,Borja,Miranda,1976-11-17,49,Marketing Analytics Executive Program,MAEX,wborja@maex.isdi.education,2025-06-22
+304,José Antonio,Morales,Carmona,1978-01-09,47,Marketing Analytics Executive Program,MAEX,jmorales@maex.isdi.education,2025-07-27
+305,María Teresa,Quintero,Vilar,1980-10-14,45,Marketing Analytics Executive Program,MAEX,mquintero@maex.isdi.education,2025-08-28
+306,Paloma,Abella,Sevilla,1979-12-23,45,Marketing Analytics Executive Program,MAEX,pabella@maex.isdi.education,2025-10-01
+307,Severiano,Ballester,Expósito,1973-06-16,52,Marketing Analytics Executive Program,MAEX,sballester@maex.isdi.education,2025-07-21
+308,Aura,Pardo,Valentín,1984-07-10,41,Marketing Analytics Executive Program,MAEX,apardo@maex.isdi.education,2025-01-14
+309,Eufemia,Salamanca,Aznar,1977-07-20,48,Marketing Analytics Executive Program,MAEX,esalamanca@maex.isdi.education,2025-08-08
+310,Herminio,Lasa,Castro,1981-09-28,44,Marketing Analytics Executive Program,MAEX,hlasa@maex.isdi.education,2025-08-25
+311,Áurea,Maestre,Ríos,1981-11-22,44,Marketing Analytics Executive Program,MAEX,amaestre@maex.isdi.education,2025-01-26
+312,Silvia,Tormo,Carrión,1974-10-08,51,Marketing Analytics Executive Program,MAEX,stormo@maex.isdi.education,2025-07-14
+313,Ambrosio,Heras,Cuadrado,1976-05-12,49,Marketing Analytics Executive Program,MAEX,aheras@maex.isdi.education,2025-04-19
+314,María,Alcalá,Raya,1976-08-09,49,Marketing Analytics Executive Program,MAEX,malcala@maex.isdi.education,2025-06-17
+315,Ciro,Gomila,Carballo,1973-09-27,52,Marketing Analytics Executive Program,MAEX,cgomila@maex.isdi.education,2025-07-14

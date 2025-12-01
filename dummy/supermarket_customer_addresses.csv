@@ -1,0 +1,4 @@
+CustomerID,AddressType,Street,City,PostalCode,Country
+2,Home,"Calle Mayor 123","Madrid",28001,Spain
+2,Work,"Avenida de la Constitución 45","Madrid",28002,Spain
+3,Home,"Carrer de Balmes 88","Barcelona",08008,Spain

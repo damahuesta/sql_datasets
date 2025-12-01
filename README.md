@@ -126,9 +126,10 @@ Este repositorio contiene una colección de datasets para prácticas de SQL y an
 | record_id | STRING | ID único del registro |
 | employee_id | STRING | FK a employees |
 | service_code | STRING | FK a service_catalog |
+| department_id | STRING | FK a departments |
 | service_date | DATE | Fecha del servicio |
 | quantity | INTEGER | Cantidad de unidades |
-| total_amount | FLOAT | Monto total (quantity × unit_price) |
+| notes | STRING | Notas adicionales (puede ser NULL) |
 
 ### Relaciones entre Tablas
 
@@ -140,6 +141,7 @@ erDiagram
     employees ||--o{ service_records : "solicita"
     departments ||--o{ current_salaries : "pertenece"
     departments ||--o{ job_history : "pertenece"
+    departments ||--o{ service_records : "pertenece"
     job_history ||--o{ salary_history : "asociado"
     service_catalog ||--o{ service_records : "utiliza"
 
@@ -198,9 +200,10 @@ erDiagram
         string record_id PK
         string employee_id FK
         string service_code FK
+        string department_id FK
         date service_date
         integer quantity
-        float total_amount
+        string notes
     }
 ```
 
@@ -232,7 +235,7 @@ erDiagram
 
 **Descripción**: Colección de datasets de ejemplo para prácticas de SQL básico (JOINs, UNION, subqueries).
 
-### 4.1. Supermarket (3 tablas)
+### 4.1. Supermarket (4 tablas)
 
 #### supermarket_customers
 
@@ -258,9 +261,23 @@ erDiagram
 | EffectiveDate | DATE | Fecha de vigencia del precio |
 | Price | FLOAT | Precio en euros |
 
+#### supermarket_customer_addresses
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| CustomerID | INTEGER | FK a customers |
+| AddressType | STRING | Tipo de dirección (Home/Work) |
+| Street | STRING | Calle y número |
+| City | STRING | Ciudad |
+| PostalCode | STRING | Código postal |
+| Country | STRING | País |
+
+**Nota**: Un cliente puede no tener direcciones, tener una o tener múltiples direcciones (ideal para practicar LEFT JOIN y relaciones 1:N).
+
 ```mermaid
 erDiagram
     supermarket_customers ||--o{ supermarket_orders : "realiza"
+    supermarket_customers ||--o{ supermarket_customer_addresses : "tiene"
     supermarket_orders }o--|| supermarket_product_prices : "precio"
     
     supermarket_customers {
@@ -279,6 +296,15 @@ erDiagram
         string ProductID PK
         date EffectiveDate PK
         float Price
+    }
+    
+    supermarket_customer_addresses {
+        integer CustomerID FK
+        string AddressType
+        string Street
+        string City
+        string PostalCode
+        string Country
     }
 ```
 
@@ -315,21 +341,23 @@ erDiagram
     }
 ```
 
-### 4.3. HR Departments (3 tablas)
+### 4.3. HR Departments (4 tablas)
 
-Tres tablas con la misma estructura para practicar operaciones UNION:
+Cuatro tablas con estructura similar para practicar operaciones UNION:
 
-- \`hhrr_dept_a_employees\`
-- \`hhrr_dept_b_employees\`
-- \`hhrr_dept_c_employees\`
+- \`hhrr_dept_a_employees\` (EmployeeID, Name, Email)
+- \`hhrr_dept_b_employees\` (EmployeeID, Name, Email)
+- \`hhrr_dept_c_employees\` (EmployeeID, Email, Name) - Nota: orden de columnas diferente
+- \`hhrr_dept_d_employees\` (EmployeeID, Phone, Name) - Nota: tiene Phone en lugar de Email
 
+**Campos comunes**:
 | Campo | Tipo | Descripción |
 |-------|------|-------------|
 | EmployeeID | INTEGER | ID del empleado |
 | Name | STRING | Nombre del empleado |
-| Email | STRING | Email corporativo |
+| Email/Phone | STRING | Email corporativo o teléfono (según tabla) |
 
-**Nota**: Los empleados pueden estar duplicados entre departamentos.
+**Nota**: Los empleados pueden estar duplicados entre departamentos. Las tablas tienen ligeras diferencias en estructura para practicar UNION con diferentes esquemas.
 
 ---
 
@@ -363,9 +391,8 @@ Tres tablas con la misma estructura para practicar operaciones UNION:
 | primaryTitle | STRING | Título de la película/serie |
 | titleType | STRING | Tipo (movie, tvSeries, etc.) |
 | startYear | INTEGER | Año de estreno |
-| endYear | INTEGER | Año de finalización (series) |
 | runtimeMinutes | INTEGER | Duración en minutos |
-| genre | STRING | Géneros (separados por coma) |
+| genre | STRING | Géneros (separados por punto y coma) |
 | director | STRING | Director(es) |
 | averageRating | FLOAT | Puntuación media (0-10) |
 | numVotes | INTEGER | Número de votos |
@@ -406,7 +433,7 @@ Tres tablas con la misma estructura para practicar operaciones UNION:
 | Programa | STRING | Programa cursado |
 | SiglasPrograma | STRING | Siglas del programa (DMBA, MDA, etc.) |
 | Email | STRING | Email educativo |
-| FechaMatriculacion | STRING | Fecha de matrícula (formato YYYY-MM-DD) |
+| FechaMatriculacion | DATE | Fecha de matrícula |
 
 ---
 
@@ -477,10 +504,7 @@ Top 50 canciones por países específicos.
 
 - **Company**: Datos sintéticos generados
 - **IMDB**: Datos públicos de IMDB
-- **MovieLens**: GroupLens Research
 - **Spotify**: Datos de la API pública de Spotify
 - **Fortune 500**: Datos públicos de Fortune Magazine
-- **RENFE**: Datos públicos de RENFE
-- **Rolling Stone**: Lista publicada por Rolling Stone
 - **Star Wars**: SWAPI (Star Wars API)
 - Resto: Datasets sintéticos o de dominio público
