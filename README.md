@@ -14,8 +14,9 @@ Este repositorio contiene una colección de datasets para prácticas de SQL y an
 6. [IMDB](#6-imdb)
 7. [ISDI Stock Prices](#7-isdi-stock-prices)
 8. [ISDI Students](#8-isdi-students)
-9. [Spotify Tracks](#9-spotify-tracks)
-10. [Star Wars](#10-star-wars)
+9. [Mercaclona](#9-mercaclona)
+10. [Spotify Tracks](#10-spotify-tracks)
+11. [Star Wars](#11-star-wars)
 
 ---
 
@@ -437,7 +438,140 @@ Cuatro tablas con estructura similar para practicar operaciones UNION:
 
 ---
 
-## 9. Spotify Tracks
+## 9. Mercaclona
+
+**Descripción**: Dataset completo de un supermercado ficticio inspirado en una conocida cadena.
+
+### Tablas y Campos
+
+#### 9.1. customers (Clientes)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| customer_id | INTEGER | ID único del cliente |
+| signup_date | DATE | Fecha de alta en el programa de fidelización |
+| birth_date | DATE | Fecha de nacimiento |
+| city | STRING | Ciudad de residencia |
+| is_active | BOOLEAN | Estado activo del cliente |
+
+#### 9.2. stores (Tiendas)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| store_id | INTEGER | ID único de la tienda |
+| comunidad_autonoma | STRING | Comunidad autónoma donde se ubica |
+| provincia | STRING | Provincia |
+| city | STRING | Ciudad |
+| opening_date | DATE | Fecha de apertura |
+| is_active | BOOLEAN | Estado activo de la tienda |
+
+#### 9.3. products (Productos)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| id | INTEGER | ID único del producto |
+| department | STRING | Departamento (Carnicería, Pescadería, etc.) |
+| category | STRING | Categoría del producto |
+| brand | STRING | Marca (puede ser NULL) |
+| name | STRING | Nombre del producto |
+| insert_date | TIMESTAMP | Fecha de alta en el sistema |
+
+#### 9.4. tickets (Tickets de Compra)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| ticket_id | INTEGER | ID único del ticket |
+| store_id | INTEGER | FK a stores |
+| customer_id | INTEGER | FK a customers (puede ser NULL) |
+| ticket_datetime | TIMESTAMP | Fecha y hora de la compra |
+| channel | STRING | Canal de compra (Online/Tienda) |
+| payment_method | STRING | Método de pago |
+| total_amount | FLOAT | Importe total del ticket |
+
+#### 9.5. ticket_lines (Líneas de Ticket)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| ticket_id | INTEGER | FK a tickets |
+| line_id | INTEGER | Número de línea dentro del ticket |
+| product_id | INTEGER | FK a products |
+| quantity | INTEGER | Cantidad de unidades |
+| unit_price | FLOAT | Precio unitario en el momento de la compra |
+| discount_amount | FLOAT | Importe del descuento aplicado |
+| line_amount | FLOAT | Importe total de la línea |
+
+#### 9.6. product_price_history (Histórico de Precios)
+
+| Campo | Tipo | Descripción |
+|-------|------|-------------|
+| product_id | INTEGER | FK a products |
+| effective_date | DATE | Fecha de inicio de vigencia del precio |
+| price | FLOAT | Precio del producto en euros |
+
+### Relaciones entre Tablas
+
+```mermaid
+erDiagram
+    customers ||--o{ tickets : "realiza"
+    stores ||--o{ tickets : "pertenece"
+    tickets ||--|{ ticket_lines : "contiene"
+    products ||--o{ ticket_lines : "vendido_en"
+    products ||--o{ product_price_history : "tiene"
+
+    customers {
+        integer customer_id PK
+        date signup_date
+        date birth_date
+        string city
+        boolean is_active
+    }
+
+    stores {
+        integer store_id PK
+        string comunidad_autonoma
+        string provincia
+        string city
+        date opening_date
+        boolean is_active
+    }
+
+    products {
+        integer id PK
+        string department
+        string category
+        string brand
+        string name
+        timestamp insert_date
+    }
+
+    tickets {
+        integer ticket_id PK
+        integer store_id FK
+        integer customer_id FK
+        timestamp ticket_datetime
+        string channel
+        string payment_method
+        float total_amount
+    }
+
+    ticket_lines {
+        integer ticket_id FK
+        integer line_id
+        integer product_id FK
+        integer quantity
+        float unit_price
+        float discount_amount
+        float line_amount
+    }
+
+    product_price_history {
+        integer product_id FK
+        date effective_date
+        float price
+    }
+```
+
+## 10. Spotify Tracks
 
 **Descripción**: Dataset de canciones populares de Spotify con dos vistas diferentes.
 
@@ -471,7 +605,7 @@ Top 50 canciones por países específicos.
 
 ---
 
-## 10. Star Wars
+## 11. Star Wars
 
 **Descripción**: Personajes del universo Star Wars con características físicas y origen.
 

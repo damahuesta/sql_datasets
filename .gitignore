@@ -12,6 +12,9 @@
 # Archivos raw de Spotify
 /spotify_tracks/raw/*
 
+# Archivo completo de productos Mercaclona (1M+ registros)
+/mercaclona/full_products.csv
+
 # Archivos del sistema
 .DS_Store
 
